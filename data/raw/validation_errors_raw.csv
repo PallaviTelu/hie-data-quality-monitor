@@ -1,0 +1,1790 @@
+facility_id,report_month,error_type,error_count
+FAC-026,2026-08,Invalid Code,21
+FAC-028,2026-01,Duplicate Message,11
+FAC-005,2025-12,Missing Required Field,25
+FAC-012,08/2026,Invalid Code,50
+FAC-019,2026-02,Invalid Date,19
+FAC-006,2026-03,Missing Required Field,32
+Fac 005,2025-11,Missing Required Field,28
+FAC-010,2026-07,Duplicate Message,27
+FAC-002,2026-01,Invalid Date,67
+FAC-030,2026-03,Invalid Code,38
+FAC-036,2026-09,Missing Required Field,7
+FAC-035,2025-12,Duplicate Message,7
+FAC-024,2025-12,Invalid Code,66
+FAC-017,2026-07,Invalid Date,3
+FAC-038,2026-08,Duplicate Message,12
+FAC-002,2026-04,Invalid Code,190
+fac-029,2025-12,Duplicate Message,87
+FAC-027,2026-06,Duplicate Message,1
+FAC-028,2025-10,Invalid Code,25
+FAC-011,2026-05,Missing Required Field,37
+FAC-016,2026-08,Duplicate Message,116
+FAC-035,2026-08,Invalid Date,2
+FAC-002,2025-12,Duplicate Message,89
+FAC-028,2026-08,Duplicate Message,12
+FAC-038,2026-05,Invalid Code,22
+FAC-019,2026-04,Duplicate Message,19
+FAC-020,2026-05,Duplicate Message,7
+FAC-040,Aug 2026,Missing Required Field,251
+FAC-017,2026-02,Duplicate Message,13
+FAC-026,2026-04,Invalid Code,26
+FAC-032,2026-01,Invalid Date,9
+FAC-020,2026-02,Missing Required Field,17
+FAC-013,2025-12,Duplicate Message,9
+FAC-031,2025-10,Invalid Date,1
+FAC-023,2026-06,Invalid Date,1
+FAC-004,2025-11,Missing Required Field,16
+FAC-018,2026-09,Duplicate Message,27
+FAC-023,02/2026,Invalid Code,4
+FAC-004,Dec 2025,Missing Required Field,9
+FAC-002,2026-09,Missing Required Field,217
+FAC-006,2026-05,Missing Required Field,35
+FAC-040,2026-09,Missing Required Field,284
+FAC-019,05/2026,Invalid Date,25
+FAC-007,2025-11,Invalid Code,20
+FAC-016,May 2026,Invalid Date,47
+FAC-030,2025-12,Invalid Date,21
+FAC-030,2026-09,Invalid Date,17
+FAC-018,2026-08,Missing Required Field,29
+FAC-017,2026-04,Missing Required Field,16
+FAC-005,2025-10,Missing Required Field,23
+FAC-009,2026-03,Invalid Date,75
+FAC-033,2026-09,Duplicate Message,73
+FAC-010,2025-11,Invalid Date,17
+FAC-035,2026-06,Invalid Code,20
+FAC-040,2026-07,Invalid Date,85
+FAC-007,2026-07,Invalid Code,23
+FAC-015,2026-03,Invalid Date,4
+Fac 012,2025-10,Invalid Code,39
+FAC-017,2025-11,Invalid Date,3
+FAC-031,2026-05,Missing Required Field,7
+FAC-005,2026-09,Invalid Code,194
+FAC-017,2025-11,Missing Required Field,18
+FAC-014,2026-01,Duplicate Message,12
+FAC035,2025-11,Duplicate Message,12
+FAC-002,2026-01,Duplicate Message,121
+FAC-011,2025-12,Invalid Code,21
+Fac 013,2026-02,Invalid Code,46
+FAC-005,Jan 2026,Duplicate Message,13
+FAC-037,2026-09,Invalid Code,15
+FAC-034,2025-11,Invalid Code,197
+FAC-015,2026-09,Invalid Code,14
+FAC-030,2026-08,Invalid Date,11
+FAC-001,Dec 2025,Duplicate Message,26
+FAC-013,2026-07,Missing Required Field,18
+FAC-036,2025-11,Invalid Date,3
+FAC-032,2026-04,Invalid Date,5
+FAC-032,2026-09,Invalid Code,20
+FAC-016,2026-01,Invalid Date,69
+FAC-025,2025-12,Invalid Code,13
+FAC-033,2026-01,Duplicate Message,82
+FAC-009,2026-07,Invalid Date,92
+FAC-036,2026-01,Duplicate Message,5
+FAC-001,05/2026,Invalid Code,31
+FAC-008,2025-12,Invalid Date,13
+FAC-011,2026-08,Invalid Date,10
+FAC-010,2025-10,Missing Required Field,57
+FAC-036,2026-03,Duplicate Message,2
+FAC-014,2026-05,Duplicate Message,16
+fac-029,2026-03,Duplicate Message,55
+FAC-029,2025-10,Duplicate Message,65
+FAC-031,2025-11,Invalid Date,4
+FAC-003,2025-11,Invalid Date,11
+FAC-039,2026-08,Invalid Code,82
+FAC-033,2025-10,Invalid Date,60
+FAC-004,06/2026,Missing Required Field,18
+FAC-009,2026-01,Duplicate Message,96
+FAC-027,2026-01,Missing Required Field,4
+FAC-013,2025-12,Invalid Code,33
+FAC-033,Mar 2026,Invalid Date,39
+FAC-032,2026-09,Invalid Date,3
+FAC-014,2026-08,Invalid Date,15
+FAC-027,2026-02,Invalid Date,2
+FAC-016,2026-05,Duplicate Message,113
+FAC-016,2026-02,Invalid Date,68
+FAC-023,2025-12,Invalid Code,8
+FAC-021,2026-09,Invalid Code,85
+FAC-019,2026-05,Invalid Code,45
+FAC-026,2026-09,Duplicate Message,11
+FAC-015,2026-03,Invalid Code,16
+FAC-037,2026-04,Missing Required Field,22
+FAC-020,2025-10,Invalid Code,28
+FAC-010,2025-12,Invalid Code,38
+FAC-035,2026-08,Missing Required Field,16
+FAC-025,2026-07,Invalid Code,13
+FAC-017,2026-06,Duplicate Message,5
+FAC017,2026-04,Duplicate Message,7
+FAC-013,2026-04,Missing Required Field,24
+FAC-016,2026-01,Invalid Code,174
+FAC-020,2026-08,Missing Required Field,19
+FAC-034,2026-05,Missing Required Field,257
+FAC-001,2026-05,Missing Required Field,33
+FAC-001,Jun 2026,Invalid Date,15
+FAC-008,2026-01,Invalid Date,15
+FAC-001,2026-01,Invalid Code,33
+FAC-030,2025-12,Invalid Code,37
+FAC-024,2026-08,Duplicate Message,34
+FAC-016,2026-09,Invalid Date,47
+FAC-005,2026-07,Invalid Date,35
+FAC-018,2026-03,Missing Required Field,48
+FAC-022,2026-02,Invalid Date,6
+FAC-011,2026-07,Missing Required Field,23
+FAC-019,2025-11,Invalid Date,15
+FAC-035,2026-01,Missing Required Field,16
+FAC-024,2026-05,Invalid Date,17
+FAC-020,2026-08,Invalid Code,25
+FAC-025,2026-05,Missing Required Field,19
+FAC-016,2025-10,Invalid Code,189
+FAC-030,2026-09,Missing Required Field,45
+FAC-011,2026-03,Duplicate Message,15
+FAC-017,2026-05,Invalid Date,2
+FAC-036,2026-03,Invalid Code,6
+FAC-017,12/2025,Invalid Date,2
+FAC-037,2026-06,Duplicate Message,9
+FAC-003,2025-10,Duplicate Message,17
+FAC-033,2026-04,Missing Required Field,147
+FAC-005,2025-12,Duplicate Message,15
+FAC-018,2026-09,Missing Required Field,45
+FAC-099,2026-09,Missing Required Field,52
+FAC-003,2026-07,Invalid Date,13
+FAC-025,2026-03,Duplicate Message,5
+FAC-028,2025-11,Duplicate Message,9
+FAC-022,Aug 2026,Duplicate Message,5
+FAC-033,2026-06,Invalid Date,46
+FAC-025,2026-04,Missing Required Field,18
+FAC-024,2025-11,Missing Required Field,55
+FAC-021,2026-05,Invalid Date,38
+FAC-036,2025-11,Duplicate Message,3
+FAC-004,2025-11,Invalid Date,3
+FAC-027,2026-05,Invalid Date,1
+FAC-010,2026-03,Duplicate Message,33
+FAC-019,2026-03,Invalid Date,12
+FAC-003,2026-06,Invalid Date,8
+FAC-024,2025-10,Missing Required Field,76
+FAC-036,2026-08,Invalid Code,12
+FAC-036,2026-02,Missing Required Field,10
+FAC-021,Sep 2026,Invalid Date,33
+FAC-017,2026-03,Invalid Date,5
+FAC-037,2026-06,Invalid Date,2
+FAC-027,2026-08,Invalid Code,5
+FAC-028,2026-05,Invalid Date,3
+FAC-007,2026-09,Invalid Date,5
+FAC-008,2026-08,Duplicate Message,27
+FAC-013,2026-09,Invalid Date,12
+FAC-021,Apr 2026,Duplicate Message,67
+FAC-004,2026-01,Invalid Code,8
+FAC-013,2025-11,Invalid Date,9
+FAC-030,2026-01,Duplicate Message,30
+FAC-026,2026-02,Duplicate Message,17
+FAC-037,2026-04,Invalid Code,10
+FAC-037,2026-05,Duplicate Message,9
+FAC-039,2026-09,Duplicate Message,54
+FAC-001,2026-05,Invalid Date,8
+FAC-031,2026-01,Invalid Code,5
+Fac 005,2025-12,Invalid Date,10
+FAC-015,2025-10,Duplicate Message,13
+FAC-017,2026-07,Duplicate Message,11
+FAC-038,2026-04,Invalid Date,9
+FAC-032,2025-11,Invalid Code,9
+FAC-026,2026-05,Duplicate Message,7
+FAC-020,2026-04,Missing Required Field,19
+FAC-032,2026-06,Duplicate Message,4
+FAC-027,2026-05,Invalid Code,5
+FAC-016,2025-10,Missing Required Field,248
+Fac 033,2026-04,Invalid Date,42
+FAC-013,2026-06,Invalid Code,53
+FAC-031,2026-01,Duplicate Message,5
+FAC-003,2026-05,Invalid Code,35
+FAC-037,2026-08,Invalid Date,5
+FAC-003,2025-10,Invalid Date,8
+FAC-009,2026-07,Duplicate Message,120
+FAC-014,2025-12,Missing Required Field,40
+FAC-028,2026-06,Duplicate Message,14
+FAC-029,2026-05,Duplicate Message,69
+fac-029,2026-03,Invalid Date,44
+FAC-017,2025-12,Duplicate Message,6
+FAC-021,2025-11,Invalid Date,39
+FAC-009,08/2026,Invalid Code,248
+ FAC-012 ,2025-12,Missing Required Field,55
+FAC-007,2026-07,Missing Required Field,30
+FAC-035,2026-01,Invalid Code,15
+FAC-034,2026-02,Duplicate Message,110
+FAC-013,2026-08,Invalid Date,10
+FAC-017,2025-10,Invalid Date,9
+FAC-037,2025-12,Missing Required Field,23
+FAC-018,2025-10,Duplicate Message,19
+FAC-030,2025-11,Invalid Date,10
+FAC-011,2026-03,Invalid Date,15
+FAC-004,2025-10,Invalid Code,6
+FAC-018,2026-06,Duplicate Message,31
+FAC-010,2026-04,Duplicate Message,25
+FAC-020,2026-07,Duplicate Message,13
+FAC-024,2026-01,Missing Required Field,55
+FAC-032,2025-11,Missing Required Field,8
+FAC-005,2026-04,Missing Required Field,31
+FAC-036,2026-04,Duplicate Message,4
+FAC-013,2026-05,Duplicate Message,14
+FAC-036,May 2026,Duplicate Message,5
+FAC-007,2026-04,Duplicate Message,10
+FAC-028,2025-10,Invalid Date,8
+FAC-001,2026-04,Missing Required Field,34
+FAC-023,2026-08,Duplicate Message,2
+FAC-034,2026-04,Invalid Code,204
+FAC-011,2025-10,Missing Required Field,27
+FAC-015,2026-09,Duplicate Message,7
+FAC-010,2026-09,Invalid Code,55
+FAC-036,2026-06,Missing Required Field,10
+FAC-027,2026-07,Duplicate Message,2
+FAC-037,2026-03,Invalid Code,14
+FAC-002,2026-03,Invalid Date,87
+FAC-003,2026-05,Missing Required Field,36
+FAC-006,2026-09,Invalid Date,6
+FAC-025,2026-09,Invalid Code,18
+FAC-020,2026-09,Invalid Date,6
+FAC-001,2026-06,Invalid Code,40
+FAC-026,2025-11,Invalid Date,10
+FAC-029,2026-05,Invalid Code,117
+FAC-025,2026-08,Duplicate Message,9
+FAC-019,May 2026,Missing Required Field,62
+FAC-004,2026-06,Invalid Date,2
+FAC-002,2026-05,Invalid Date,57
+Fac 037,2026-03,Missing Required Field,18
+FAC-018,2026-04,Invalid Date,19
+FAC-005,05/2026,Invalid Code,72
+Fac 035,Apr 2026,Duplicate Message,6
+FAC-004,2025-12,Invalid Code,9
+FAC-029,2026-02,Missing Required Field,177
+FAC-039,2026-05,Invalid Code,79
+FAC-008,2026-09,Invalid Code,40
+FAC-029,2026-09,Invalid Date,42
+FAC-039,Jul 2026,Missing Required Field,118
+FAC-019,2026-01,Duplicate Message,22
+FAC-018,2026-03,Invalid Code,88
+FAC-006,Jul 2026,Duplicate Message,19
+FAC-028,2026-04,Duplicate Message,10
+FAC-013,2025-10,Missing Required Field,24
+FAC-005,2025-11,Invalid Date,13
+FAC-014,2025-10,Duplicate Message,19
+FAC-026,2026-06,Duplicate Message,12
+FAC-033,2025-11,Invalid Date,53
+FAC-034,2026-01,Duplicate Message,134
+FAC-015,2026-04,Invalid Code,7
+Fac 024,2026-07,Invalid Code,47
+FAC-022,2026-05,Missing Required Field,11
+FAC-015,Jan 2026,Invalid Code,17
+FAC-036,2026-07,Duplicate Message,4
+FAC-008,2026-09,Missing Required Field,39
+FAC-024,2025-11,Duplicate Message,27
+FAC-021,2025-10,Missing Required Field,122
+FAC-001,2025-11,Invalid Date,10
+FAC-006,2026-03,Duplicate Message,20
+FAC-008,2026-04,Duplicate Message,18
+Fac 010,2026-05,Invalid Date,20
+FAC-006,2026-02,Missing Required Field,35
+FAC-027,2025-10,Invalid Code,3
+FAC-009,2026-06,Invalid Code,220
+FAC-002,2026-08,Invalid Date,89
+FAC-007,2026-05,Invalid Date,9
+FAC-031,2025-11,Missing Required Field,5
+FAC-035,2026-09,Duplicate Message,5
+FAC-039,2026-05,Duplicate Message,58
+FAC-036,2026-04,Invalid Date,1
+FAC-024,2026-06,Duplicate Message,25
+FAC-035,2025-11,Invalid Code,10
+fac-029,2026-01,Missing Required Field,166
+FAC-019,Dec 2025,Missing Required Field,62
+ FAC-002 ,2026-09,Duplicate Message,76
+FAC-016,2025-10,Invalid Date,77
+FAC-007,2025-11,Missing Required Field,27
+FAC-028,2026-07,Missing Required Field,26
+FAC-014,2025-12,Duplicate Message,16
+FAC-035,2026-02,Invalid Date,8
+FAC-022,2026-03,Invalid Code,10
+FAC-001,2025-10,Invalid Code,19
+FAC-037,2026-04,Invalid Date,7
+FAC-007,2026-02,Invalid Date,10
+FAC-028,2026-09,Invalid Date,8
+FAC-005,2026-08,Duplicate Message,38
+FAC-031,2026-04,Duplicate Message,1
+FAC-016,2026-09,Invalid Code,145
+FAC-014,2026-04,Missing Required Field,51
+FAC-034,2025-12,Invalid Code,197
+FAC-015,2025-10,Invalid Code,8
+FAC-012,2026-02,Missing Required Field,37
+FAC-033,2026-02,Missing Required Field,160
+FAC-006,2025-10,Duplicate Message,19
+fac-037,2025-10,Missing Required Field,19
+FAC-031,2026-07,Duplicate Message,3
+FAC-004,2026-05,Missing Required Field,10
+FAC-029,2025-10,Invalid Date,64
+FAC009,2026-05,Invalid Code,198
+FAC-031,2026-04,Missing Required Field,6
+FAC-026,2026-02,Missing Required Field,39
+FAC-027,2025-12,Invalid Code,1
+FAC-034,2025-11,Invalid Date,76
+FAC-028,2026-08,Invalid Date,4
+FAC-004,2026-09,Invalid Code,8
+FAC-033,2026-09,Missing Required Field,145
+FAC-027,2026-02,Invalid Code,1
+fac-007,2025-11,Duplicate Message,17
+FAC-003,2026-01,Duplicate Message,14
+FAC-007,2026-03,Duplicate Message,16
+FAC-028,2026-08,Missing Required Field,16
+FAC-008,2026-08,Missing Required Field,40
+FAC-018,2026-02,Missing Required Field,43
+FAC-025,2026-07,Missing Required Field,22
+FAC-034,2026-01,Invalid Code,240
+FAC-028,2025-11,Invalid Date,8
+FAC-033,2026-09,Invalid Date,32
+FAC030,2026-05,Duplicate Message,24
+FAC-017,2026-08,Invalid Code,16
+FAC-006,2025-12,Duplicate Message,15
+FAC-020,2026-07,Invalid Code,26
+FAC-033,2025-12,Invalid Date,50
+FAC-003,Sep 2026,Duplicate Message,17
+FAC-012,2026-03,Invalid Code,35
+FAC-030,09/2026,Invalid Code,40
+FAC-021,2026-01,Invalid Date,32
+FAC-013,2026-09,Invalid Code,36
+FAC-026,2026-01,Invalid Code,27
+FAC-007,2026-05,Invalid Code,20
+FAC-006,2026-06,Duplicate Message,14
+FAC-022,2026-09,Invalid Code,10
+FAC-003,2026-09,Invalid Code,24
+FAC-030,2025-10,Duplicate Message,17
+FAC-023,2026-01,Invalid Code,4
+FAC-020,2025-12,Invalid Date,5
+FAC-019,2026-04,Invalid Date,7
+FAC-023,2026-03,Invalid Code,7
+FAC-026,2026-08,Duplicate Message,6
+FAC-014,2026-02,Invalid Code,22
+FAC-018,2026-05,Missing Required Field,38
+FAC-010,2026-02,Missing Required Field,59
+FAC-026,2026-07,Invalid Code,21
+FAC-013,2026-05,Missing Required Field,22
+FAC-034,2025-10,Duplicate Message,127
+FAC-032,2026-05,Invalid Code,19
+FAC-018,2026-08,Duplicate Message,24
+FAC-014,2026-09,Invalid Date,13
+FAC-001,2026-03,Invalid Code,32
+FAC-033,2026-05,Duplicate Message,78
+FAC-020,2026-02,Invalid Code,25
+FAC-022,2026-08,Invalid Date,2
+FAC-027,08/2026,Invalid Date,1
+FAC-012,2025-11,Missing Required Field,47
+FAC-038,2026-06,Invalid Date,7
+FAC-033,2026-02,Duplicate Message,66
+FAC-003,2025-10,Missing Required Field,30
+FAC-011,2026-07,Duplicate Message,10
+FAC-007,2026-08,Invalid Date,13
+Fac 003,2026-03,Invalid Date,14
+FAC-027,2026-03,Invalid Date,1
+FAC-010,2026-03,Invalid Code,50
+FAC-025,2026-04,Invalid Date,5
+FAC-005,2025-12,Invalid Code,59
+FAC-008,2025-10,Invalid Code,48
+FAC-009,2026-01,Invalid Code,165
+FAC-030,2026-09,Duplicate Message,21
+FAC-006,2026-06,Invalid Date,14
+FAC-032,2026-01,Duplicate Message,5
+FAC-027,2025-12,Duplicate Message,1
+FAC-006,2025-12,Invalid Date,9
+FAC-008,2026-07,Invalid Code,23
+FAC-035,2025-10,Invalid Code,16
+FAC-037,2025-11,Invalid Code,13
+FAC-019,2026-02,Duplicate Message,28
+FAC-014,2026-07,Invalid Code,24
+FAC-032,2026-03,Missing Required Field,11
+FAC-033,2026-08,Invalid Date,44
+FAC-027,2026-09,Invalid Code,1
+FAC-023,2026-04,Invalid Date,1
+FAC-019,2026-09,Missing Required Field,64
+FAC033,2026-03,Missing Required Field,144
+FAC-009,Nov 2025,Invalid Date,84
+FAC-009,Feb 2026,Duplicate Message,137
+FAC-027,2026-06,Invalid Date,1
+FAC-039,2026-09,Invalid Date,31
+FAC-024,08/2026,Invalid Date,23
+FAC-003,2026-04,Invalid Date,7
+fac-002,2026-02,Invalid Code,233
+FAC-008,2026-05,Invalid Code,40
+FAC-029,2026-09,Invalid Code,95
+FAC-009,2025-11,Invalid Code,189
+FAC-030,2026-07,Duplicate Message,28
+FAC-023,2025-10,Duplicate Message,3
+FAC-031,2026-09,Missing Required Field,7
+ FAC-029 ,01/2026,Duplicate Message,77
+FAC-016,2026-07,Invalid Date,86
+FAC-028,2026-02,Missing Required Field,24
+FAC-016,2026-04,Missing Required Field,228
+FAC-035,2026-04,Invalid Code,14
+FAC-030,12/2025,Missing Required Field,61
+FAC-004,2026-08,Invalid Code,11
+FAC-038,2026-05,Duplicate Message,8
+FAC-030,2026-06,Invalid Date,10
+FAC-012,2026-02,Duplicate Message,22
+fac-034,2025-10,Invalid Code,188
+FAC-009,2025-12,Missing Required Field,305
+FAC-039,2026-05,Invalid Date,36
+FAC-014,2026-01,Invalid Date,9
+FAC-028,2025-11,Missing Required Field,21
+FAC-032,2026-05,Missing Required Field,4
+FAC-033,2026-04,Invalid Code,121
+FAC-035,2026-03,Missing Required Field,21
+FAC-009,2026-04,Missing Required Field,279
+FAC-016,2025-10,Duplicate Message,104
+FAC-021,2025-12,Invalid Code,85
+FAC-029,2026-05,Invalid Date,32
+FAC-005,2025-11,Invalid Code,68
+FAC-034,2026-03,Duplicate Message,128
+FAC-034,2025-12,Duplicate Message,130
+FAC-022,2026-05,Invalid Date,3
+FAC-011,2025-12,Duplicate Message,4
+FAC-012,2026-01,Invalid Date,20
+fac-012,2025-11,Duplicate Message,23
+FAC-009,2025-11,Missing Required Field,293
+ FAC-021 ,2026-07,Duplicate Message,42
+FAC-013,2025-11,Missing Required Field,22
+FAC-035,2026-05,Invalid Code,7
+FAC-025,2026-09,Duplicate Message,9
+FAC-035,2025-12,Invalid Date,5
+FAC-006,2026-08,Missing Required Field,29
+FAC-005,2026-09,Missing Required Field,80
+FAC-027,Sep 2026,Duplicate Message,3
+FAC-029,2026-01,Invalid Code,148
+FAC-028,2026-09,Missing Required Field,22
+FAC-003,2026-09,Missing Required Field,29
+FAC-005,2026-02,Invalid Code,63
+FAC-002,2025-10,Missing Required Field,218
+FAC-033,2026-07,Invalid Date,52
+FAC-037,2026-09,Duplicate Message,10
+FAC-034,2026-04,Missing Required Field,247
+FAC-028,2026-03,Missing Required Field,24
+FAC-018,2026-07,Missing Required Field,50
+FAC-019,2025-12,Duplicate Message,33
+FAC-025,2026-06,Invalid Code,20
+FAC-023,2025-11,Missing Required Field,7
+FAC-010,2026-09,Duplicate Message,20
+FAC-013,2025-10,Duplicate Message,10
+FAC-005,2025-10,Duplicate Message,12
+FAC-015,2025-11,Invalid Date,6
+FAC-036,2026-01,Invalid Code,4
+FAC-036,2025-10,Duplicate Message,5
+FAC-038,May 2026,Invalid Date,10
+FAC-011,2026-05,Duplicate Message,14
+FAC-032,2026-03,Duplicate Message,3
+FAC-013,2026-09,Missing Required Field,12
+FAC-026,2026-07,Invalid Date,7
+FAC-007,2026-06,Invalid Date,10
+FAC-011,2026-09,Missing Required Field,19
+FAC-008,2026-05,Invalid Date,11
+FAC-002,2025-11,Duplicate Message,129
+FAC-014,2025-10,Missing Required Field,33
+FAC-032,2026-04,Duplicate Message,2
+FAC-014,09/2026,Invalid Code,35
+FAC-008,2025-12,Duplicate Message,23
+FAC-016,2026-01,Duplicate Message,114
+FAC-036,Feb 2026,Invalid Code,6
+FAC-037,Sep 2026,Missing Required Field,17
+FAC-018,2026-03,Duplicate Message,28
+FAC-037,2026-01,Missing Required Field,21
+FAC-025,10/2025,Duplicate Message,9
+FAC-026,2026-05,Invalid Date,9
+FAC-013,2026-07,Duplicate Message,9
+FAC-012,2026-04,Missing Required Field,48
+FAC-010,2026-03,Missing Required Field,57
+FAC-003,2026-08,Duplicate Message,22
+FAC-017,2026-02,Invalid Date,4
+FAC-010,2026-01,Duplicate Message,41
+FAC-031,2026-04,Invalid Date,3
+FAC-029,2025-11,Invalid Code,136
+FAC-027,2025-10,Duplicate Message,2
+FAC-005,2026-08,Missing Required Field,81
+FAC-012,Sep 2026,Invalid Code,38
+FAC-007,2026-02,Invalid Code,22
+FAC-029,2026-06,Duplicate Message,89
+FAC-001,2026-05,Duplicate Message,12
+FAC-015,2026-02,Missing Required Field,16
+FAC-006,2025-11,Duplicate Message,19
+FAC-020,2026-09,Missing Required Field,13
+FAC-027,2026-08,Missing Required Field,3
+fac-003,2026-08,Invalid Code,26
+FAC-018,2025-12,Invalid Code,83
+FAC-014,2026-03,Duplicate Message,19
+FAC-018,2026-05,Invalid Date,18
+FAC-019,2026-01,Invalid Date,12
+FAC-006,2025-11,Invalid Code,49
+FAC-011,2026-01,Missing Required Field,24
+FAC-035,2026-07,Missing Required Field,22
+FAC-035,Dec 2025,Missing Required Field,16
+FAC-035,2026-05,Missing Required Field,18
+FAC-022,2025-10,Missing Required Field,11
+FAC-004,2026-01,Duplicate Message,8
+FAC-010,2025-11,Invalid Code,57
+FAC-022,2026-03,Missing Required Field,16
+FAC-006,2026-04,Invalid Date,9
+FAC-002,2026-06,Invalid Code,168
+FAC-015,2025-12,Duplicate Message,5
+FAC-023,2026-08,Invalid Code,6
+FAC-018,2026-04,Duplicate Message,29
+FAC-036,2026-02,Invalid Date,4
+FAC-014,2026-04,Invalid Code,35
+FAC-026,2026-02,Invalid Code,20
+FAC-011,2026-01,Invalid Code,22
+FAC-033,2026-05,Invalid Code,135
+FAC-008,01/2026,Invalid Code,32
+FAC-014,2026-09,Duplicate Message,23
+FAC-024,2026-09,Duplicate Message,25
+FAC025,May 2026,Duplicate Message,5
+FAC-039,2026-07,Invalid Code,96
+FAC-038,2026-08,Invalid Date,9
+FAC-035,2026-01,Invalid Date,5
+FAC-010,2026-06,Duplicate Message,23
+FAC-021,2025-12,Missing Required Field,110
+FAC-026,2025-12,Invalid Date,7
+FAC-032,2026-02,Invalid Date,4
+FAC-014,2026-03,Missing Required Field,36
+FAC-026,2026-09,Invalid Code,22
+fac-029,2026-02,Duplicate Message,63
+FAC011,2026-09,Invalid Date,7
+FAC-021,2025-11,Duplicate Message,51
+FAC-007,2026-07,Duplicate Message,12
+FAC-031,2026-08,Invalid Code,4
+FAC-037,2025-12,Invalid Date,4
+FAC-038,2026-06,Missing Required Field,29
+FAC031,2026-06,Invalid Code,3
+FAC-035,2026-08,Invalid Code,14
+FAC-032,2026-09,Duplicate Message,2
+FAC-008,2025-11,Invalid Date,9
+FAC-017,2026-06,Invalid Date,4
+FAC-013,2025-11,Invalid Code,55
+FAC-013,2025-10,Invalid Code,44
+FAC-037,2026-09,Invalid Date,4
+FAC-006,2026-01,Invalid Date,12
+FAC-016,2026-03,Duplicate Message,127
+FAC-036,2026-08,Invalid Date,6
+FAC-011,2025-10,Invalid Date,4
+FAC-033,Aug 2026,Duplicate Message,63
+FAC-007,2026-02,Missing Required Field,22
+fac-002,2026-09,Invalid Code,141
+FAC-006,2026-09,Duplicate Message,11
+FAC-014,2025-11,Missing Required Field,32
+FAC-034,2025-10,Missing Required Field,269
+FAC-029,2025-12,Missing Required Field,170
+FAC-037,2025-11,Missing Required Field,11
+FAC-008,2026-03,Invalid Date,10
+FAC-032,2025-10,Missing Required Field,5
+ FAC-017 ,2026-04,Invalid Date,8
+FAC-027,2026-02,Duplicate Message,1
+FAC-002,2026-07,Missing Required Field,298
+FAC-025,09/2026,Invalid Date,1
+FAC-030,2026-08,Invalid Code,24
+FAC019,2026-01,Invalid Code,41
+FAC-020,2026-05,Invalid Code,25
+ FAC-027 ,2026-06,Invalid Code,3
+FAC-007,2026-05,Duplicate Message,12
+FAC-018,2026-02,Duplicate Message,24
+FAC-014,2026-03,Invalid Date,16
+FAC-028,2026-08,Invalid Code,21
+FAC-037,2026-03,Invalid Date,8
+FAC-036,2026-06,Duplicate Message,4
+FAC-016,2025-12,Invalid Code,176
+FAC-017,Jan 2026,Duplicate Message,7
+FAC-036,2026-04,Missing Required Field,8
+FAC006,2025-12,Invalid Code,48
+FAC-029,2025-11,Missing Required Field,203
+FAC-029,2026-06,Invalid Code,138
+FAC-001,2026-04,Invalid Code,29
+FAC-026,2026-01,Missing Required Field,17
+FAC-034,2025-11,Missing Required Field,235
+FAC-009,2026-03,Missing Required Field,267
+FAC-008,2025-11,Missing Required Field,42
+FAC-005,2026-07,Invalid Code,144
+FAC-006,2026-08,Duplicate Message,14
+FAC-003,2026-02,Invalid Date,12
+FAC009,2026-03,Invalid Code,165
+FAC-027,2026-08,Duplicate Message,2
+FAC-002,2026-02,Missing Required Field,261
+FAC-006,2026-07,Invalid Code,47
+FAC-023,2026-01,Missing Required Field,4
+FAC-009,2026-04,Duplicate Message,115
+FAC-023,12/2025,Duplicate Message,1
+FAC-010,2026-07,Invalid Date,26
+FAC-012,2026-04,Invalid Code,25
+FAC-001,2026-08,Invalid Date,13
+FAC-026,2025-11,Duplicate Message,11
+FAC-012,2026-08,Duplicate Message,29
+FAC-032,2025-12,Invalid Code,10
+FAC-017,2026-01,Invalid Code,18
+FAC-033,2026-02,Invalid Date,38
+FAC-016,May 2026,Invalid Code,181
+FAC-029,2026-07,Invalid Date,41
+FAC-036,2026-06,Invalid Date,6
+FAC-026,2026-02,Invalid Date,15
+FAC-027,2026-04,Duplicate Message,1
+FAC-032,2026-03,Invalid Date,5
+FAC-032,Jun 2026,Invalid Code,15
+FAC-027,2026-06,Missing Required Field,4
+FAC-035,2026-05,Duplicate Message,7
+FAC-024,2026-09,Missing Required Field,67
+FAC-035,2026-07,Invalid Date,6
+FAC-032,2025-12,Missing Required Field,8
+FAC-021,02/2026,Missing Required Field,138
+FAC-004,2026-09,Missing Required Field,14
+FAC-027,2026-01,Invalid Code,3
+FAC-012,2026-07,Invalid Code,33
+FAC-003,2026-02,Duplicate Message,13
+FAC-010,2026-08,Missing Required Field,77
+FAC-034,2026-05,Duplicate Message,95
+FAC-005,2026-02,Invalid Date,7
+FAC-023,Aug 2026,Missing Required Field,4
+FAC-014,2025-12,Invalid Code,26
+FAC-022,2025-11,Duplicate Message,7
+FAC-025,2025-11,Duplicate Message,9
+FAC-017,2025-12,Missing Required Field,16
+FAC-014,2026-01,Invalid Code,48
+FAC-026,2025-10,Missing Required Field,30
+FAC-017,2026-02,Invalid Code,9
+FAC-022,2026-07,Invalid Code,13
+FAC-039,Jun 2026,Invalid Code,62
+FAC-021,Feb 2026,Invalid Date,38
+FAC-018,2026-02,Invalid Code,98
+FAC-006,2025-11,Invalid Date,5
+FAC-036,2025-12,Duplicate Message,5
+FAC-008,2026-02,Duplicate Message,23
+FAC-007,2026-05,Missing Required Field,26
+FAC-021,2026-06,Invalid Date,41
+FAC-015,2026-09,Missing Required Field,21
+FAC-036,2026-09,Invalid Code,7
+FAC-030,2026-07,Missing Required Field,53
+FAC-033,2026-07,Duplicate Message,81
+FAC-014,2026-04,Duplicate Message,26
+FAC-025,2026-02,Missing Required Field,23
+FAC-004,2026-03,Invalid Date,2
+FAC-007,2025-10,Invalid Code,16
+FAC-038,2026-09,Missing Required Field,16
+FAC-004,2025-12,Duplicate Message,8
+FAC-040,2026-08,Invalid Date,83
+FAC-029,2025-12,Invalid Date,42
+FAC-032,2026-04,Missing Required Field,7
+FAC-003,Aug 2026,Invalid Date,13
+FAC-032,2026-04,Invalid Code,14
+FAC-002,2026-08,Duplicate Message,127
+FAC009,2025-10,Duplicate Message,96
+FAC-036,10/2025,Missing Required Field,4
+FAC-003,2026-05,Duplicate Message,8
+ FAC-016 ,2025-11,Invalid Date,73
+FAC-005,2026-01,Invalid Code,59
+FAC-004,2026-08,Missing Required Field,11
+FAC-024,2026-04,Invalid Code,45
+FAC-030,2026-03,Missing Required Field,36
+FAC-002,2026-06,Duplicate Message,100
+FAC-020,2026-04,Duplicate Message,4
+FAC-023,2026-06,Duplicate Message,3
+FAC-023,2025-10,Invalid Date,1
+FAC-013,2026-07,Invalid Date,7
+FAC-021,2026-06,Invalid Code,102
+FAC-003,2025-12,Missing Required Field,31
+FAC-005,2026-02,Duplicate Message,20
+FAC-028,2026-01,Missing Required Field,24
+FAC-001,2026-03,Missing Required Field,31
+FAC-028,2026-02,Invalid Date,5
+FAC-032,2025-10,Invalid Date,7
+FAC-008,2026-05,Missing Required Field,39
+FAC-030,2026-07,Invalid Code,45
+Fac 009,2026-01,Missing Required Field,252
+FAC-018,2025-11,Missing Required Field,58
+FAC-019,2025-11,Duplicate Message,32
+FAC-032,2026-02,Missing Required Field,5
+FAC-017,2026-04,Invalid Code,15
+FAC-029,2026-05,Missing Required Field,131
+FAC-024,2025-12,Missing Required Field,77
+FAC-003,2026-03,Missing Required Field,46
+FAC-013,01/2026,Missing Required Field,24
+FAC-011,2026-06,Invalid Date,6
+FAC-028,2026-09,Invalid Code,26
+FAC-034,2026-06,Missing Required Field,275
+FAC-022,2025-12,Duplicate Message,6
+FAC-001,2025-11,Missing Required Field,25
+FAC-005,2026-08,Invalid Date,42
+ FAC-037 ,2026-01,Duplicate Message,6
+FAC-022,2025-12,Missing Required Field,11
+ FAC-035 ,2025-10,Missing Required Field,15
+FAC-001,2026-07,Missing Required Field,42
+FAC-034,2025-12,Invalid Date,88
+FAC-017,2026-09,Invalid Code,13
+FAC-012,2026-05,Duplicate Message,21
+FAC-023,2026-01,Duplicate Message,4
+FAC-008,2026-08,Invalid Code,36
+FAC-010,2026-02,Duplicate Message,34
+FAC-038,2026-03,Invalid Code,16
+Fac 002,2025-10,Invalid Code,183
+FAC-008,2026-02,Invalid Code,24
+FAC-005,2026-06,Invalid Date,30
+FAC-015,2026-02,Duplicate Message,7
+FAC-027,2026-04,Invalid Date,3
+FAC-024,2026-06,Invalid Date,14
+FAC-007,2026-04,Missing Required Field,17
+FAC-002,2026-07,Invalid Code,206
+FAC-026,2025-10,Duplicate Message,23
+FAC025,2026-09,Missing Required Field,16
+FAC-014,2026-01,Missing Required Field,39
+FAC-025,2026-07,Duplicate Message,12
+FAC-015,2026-03,Missing Required Field,10
+FAC-031,2026-03,Missing Required Field,5
+FAC-027,2025-11,Missing Required Field,5
+FAC-013,2026-04,Invalid Code,41
+FAC-013,2026-06,Duplicate Message,12
+FAC-006,2025-10,Missing Required Field,37
+FAC-021,2026-08,Invalid Code,96
+FAC-012,2026-08,Missing Required Field,38
+FAC-019,2026-09,Invalid Date,23
+FAC-026,2026-04,Missing Required Field,32
+FAC-011,2026-07,Invalid Date,11
+FAC-001,2026-02,Invalid Code,50
+FAC-008,2026-07,Invalid Date,10
+FAC-032,2026-08,Invalid Code,9
+FAC-016,11/2025,Duplicate Message,100
+FAC-002,2025-11,Invalid Date,68
+FAC-023,10/2025,Invalid Code,4
+FAC-036,2026-08,Duplicate Message,3
+FAC-027,2025-10,Invalid Date,1
+FAC-022,2026-07,Invalid Date,3
+FAC-022,2026-04,Duplicate Message,4
+FAC-012,2026-05,Invalid Date,12
+FAC-029,10/2025,Invalid Code,138
+FAC-009,2025-10,Missing Required Field,232
+FAC-004,2025-10,Duplicate Message,5
+FAC-027,2025-11,Invalid Code,2
+FAC-009,01/2026,Invalid Date,63
+FAC-002,2026-02,Duplicate Message,122
+FAC-028,2026-05,Missing Required Field,20
+FAC-033,2026-03,Duplicate Message,49
+FAC-035,2026-07,Invalid Code,6
+FAC-014,2025-11,Duplicate Message,21
+FAC-031,2025-10,Invalid Code,7
+FAC-033,2026-06,Duplicate Message,74
+FAC-023,2026-01,Invalid Date,2
+Fac 005,2026-07,Duplicate Message,43
+FAC-026,2026-04,Duplicate Message,14
+FAC-039,2026-07,Duplicate Message,52
+FAC-037,2026-08,Invalid Code,11
+Fac 039,2026-09,Invalid Code,100
+FAC-001,2026-07,Invalid Code,31
+fac-034,2026-06,Invalid Code,168
+FAC-008,2026-04,Invalid Date,13
+FAC-026,2026-05,Missing Required Field,26
+FAC-034,2026-02,Invalid Date,75
+FAC-001,Apr 2026,Duplicate Message,12
+FAC-022,2025-11,Invalid Code,7
+FAC-014,2026-05,Invalid Date,15
+FAC-037,2026-06,Invalid Code,12
+FAC-016,2026-07,Invalid Code,164
+FAC-010,2026-08,Invalid Code,43
+FAC-007,2026-09,Missing Required Field,21
+FAC-021,2026-09,Missing Required Field,142
+FAC-031,2026-05,Invalid Date,2
+FAC-021,2026-05,Duplicate Message,68
+FAC-022,11/2025,Missing Required Field,10
+Fac 013,2026-05,Invalid Date,6
+FAC-026,2026-03,Missing Required Field,29
+FAC-036,2026-08,Missing Required Field,7
+FAC-023,2026-05,Missing Required Field,4
+FAC-020,2025-11,Missing Required Field,16
+FAC-036,2026-03,Invalid Date,2
+FAC-036,2026-07,Missing Required Field,15
+FAC-014,2026-02,Duplicate Message,14
+FAC-029,2026-02,Invalid Code,126
+FAC-002,2025-10,Duplicate Message,107
+FAC-019,2025-10,Missing Required Field,45
+FAC-013,2026-03,Missing Required Field,15
+FAC-023,2026-06,Invalid Code,6
+FAC-021,2025-10,Duplicate Message,46
+FAC-011,2025-11,Duplicate Message,5
+FAC-025,2026-01,Duplicate Message,9
+FAC-004,2026-03,Missing Required Field,15
+FAC-039,2026-06,Invalid Date,28
+FAC-040,2026-07,Missing Required Field,253
+FAC-040,2026-09,Invalid Date,80
+FAC-038,2026-06,Duplicate Message,6
+FAC-035,2025-10,Duplicate Message,8
+FAC-015,2026-03,Duplicate Message,7
+FAC-011,2026-01,Duplicate Message,15
+FAC-036,2026-05,Missing Required Field,13
+FAC-022,2026-06,Missing Required Field,14
+FAC-038,2026-02,Invalid Date,5
+FAC-011,2026-08,Invalid Code,17
+FAC-002,2025-12,Missing Required Field,202
+FAC-021,02/2026,Invalid Code,79
+FAC-023,2025-11,Duplicate Message,1
+FAC016,2026-01,Missing Required Field,215
+FAC-014,2026-07,Invalid Date,14
+FAC-006,2026-09,Missing Required Field,36
+FAC-010,2026-01,Invalid Date,30
+FAC-031,2026-09,Duplicate Message,5
+FAC-026,2026-08,Missing Required Field,26
+FAC-001,2025-11,Invalid Code,30
+FAC-008,Mar 2026,Invalid Code,39
+FAC-011,2026-02,Invalid Code,16
+FAC-010,2025-12,Invalid Date,25
+FAC-013,Jun 2026,Missing Required Field,19
+FAC-010,2026-04,Missing Required Field,58
+FAC-012,2025-12,Invalid Date,10
+FAC-020,2025-12,Missing Required Field,12
+FAC-025,2026-07,Invalid Date,6
+FAC-028,2026-05,Invalid Code,20
+FAC-029,2026-08,Invalid Date,33
+FAC-012,2026-06,Invalid Code,42
+FAC-018,Dec 2025,Missing Required Field,43
+FAC-014,Feb 2026,Missing Required Field,26
+fac-017,2026-05,Missing Required Field,12
+FAC-005,2026-07,Missing Required Field,50
+FAC-014,2026-04,Invalid Date,8
+FAC-026,2025-12,Missing Required Field,31
+ FAC-030 ,2026-04,Missing Required Field,57
+FAC-001,2025-12,Missing Required Field,43
+FAC-012,2026-03,Invalid Date,15
+FAC-017,2026-06,Missing Required Field,10
+FAC-024,2026-09,Invalid Date,16
+FAC-032,2025-12,Invalid Date,3
+FAC-020,2025-11,Invalid Code,26
+FAC-017,2025-10,Duplicate Message,9
+FAC-032,2026-07,Invalid Code,13
+FAC-029,2026-09,Missing Required Field,138
+FAC-037,2025-11,Duplicate Message,7
+FAC-021,2026-07,Missing Required Field,106
+FAC-033,2026-03,Invalid Code,114
+FAC-012,2026-02,Invalid Code,36
+FAC-010,2025-10,Duplicate Message,40
+FAC-005,2026-01,Missing Required Field,21
+ FAC-014 ,2026-07,Missing Required Field,51
+FAC-016,2025-11,Missing Required Field,243
+FAC-023,2026-09,Duplicate Message,3
+FAC-024,2025-12,Duplicate Message,31
+FAC-024,2026-03,Invalid Code,76
+FAC-017,2026-07,Missing Required Field,19
+FAC-001,2026-03,Invalid Date,10
+FAC-026,2026-01,Duplicate Message,12
+FAC-007,2026-04,Invalid Date,11
+FAC-028,2026-01,Invalid Date,6
+FAC-015,04/2026,Invalid Date,5
+FAC-015,2026-02,Invalid Date,6
+FAC-016,Feb 2026,Invalid Code,175
+FAC-018,2025-10,Invalid Code,73
+fac-039,2026-07,Invalid Date,35
+FAC-032,2026-07,Invalid Date,1
+FAC-038,2026-03,Duplicate Message,15
+FAC-001,2025-10,Missing Required Field,39
+FAC-018,06/2026,Invalid Code,94
+FAC-019,2025-11,Invalid Code,36
+FAC-004,2026-01,Invalid Date,8
+FAC-002,2025-12,Invalid Date,71
+FAC-012,2026-01,Missing Required Field,41
+ FAC-008 ,2026-06,Invalid Code,36
+FAC-012,2025-12,Duplicate Message,22
+FAC-035,2026-02,Missing Required Field,23
+FAC-011,2025-12,Missing Required Field,25
+FAC-038,2026-07,Duplicate Message,7
+FAC-017,2026-03,Missing Required Field,19
+FAC-028,2026-04,Invalid Code,25
+FAC-005,2026-06,Invalid Code,132
+FAC-027,2025-10,Missing Required Field,4
+FAC-015,2026-01,Missing Required Field,14
+FAC-021,2026-08,Duplicate Message,59
+FAC-020,2026-07,Missing Required Field,14
+FAC-001,2026-07,Invalid Date,18
+FAC-033,2025-12,Duplicate Message,87
+FAC-022,2026-06,Invalid Code,8
+FAC-025,2026-03,Invalid Code,23
+FAC-001,2026-08,Duplicate Message,19
+FAC-011,2026-03,Missing Required Field,18
+FAC-037,May 2026,Invalid Code,10
+FAC-034,2026-03,Invalid Date,99
+FAC-022,2026-09,Invalid Date,4
+FAC-019,2026-03,Missing Required Field,31
+FAC-006,2026-04,Missing Required Field,28
+FAC-024,2026-01,Duplicate Message,37
+FAC-024,2026-04,Duplicate Message,29
+FAC-015,2026-02,Invalid Code,13
+FAC-002,01/2026,Invalid Code,188
+FAC-026,2026-06,Invalid Date,16
+FAC-001,2025-11,Duplicate Message,18
+FAC-002,2026-06,Missing Required Field,206
+FAC-037,Oct 2025,Invalid Code,9
+FAC-011,2026-03,Invalid Code,18
+FAC018,2026-07,Invalid Code,88
+FAC-031,2025-11,Invalid Code,2
+FAC-029,2026-08,Invalid Code,102
+FAC-028,2026-09,Duplicate Message,12
+FAC-006,2026-05,Invalid Date,9
+FAC-013,2025-11,Duplicate Message,14
+FAC-006,2026-01,Invalid Code,75
+FAC-011,2026-04,Invalid Date,8
+FAC-025,2026-08,Invalid Date,3
+FAC-006,2026-01,Duplicate Message,21
+FAC-013,2026-08,Duplicate Message,13
+FAC-017,2026-05,Invalid Code,9
+FAC-021,2026-06,Missing Required Field,117
+FAC-024,2025-10,Duplicate Message,43
+FAC-007,2026-06,Missing Required Field,25
+FAC-010,2026-04,Invalid Code,53
+FAC-024,2025-10,Invalid Code,58
+FAC-030,2026-01,Invalid Code,35
+FAC-020,2026-03,Invalid Code,35
+FAC-017,2026-01,Invalid Date,4
+FAC-008,2026-04,Invalid Code,43
+FAC-013,2026-05,Invalid Code,32
+FAC-030,2026-06,Missing Required Field,64
+FAC-026,2026-03,Duplicate Message,7
+FAC-030,2026-05,Missing Required Field,54
+FAC-014,2026-06,Missing Required Field,52
+fac-037,2025-10,Duplicate Message,5
+FAC-025,2025-12,Invalid Date,12
+FAC-004,2026-05,Invalid Code,8
+FAC-013,2026-04,Duplicate Message,7
+FAC-038,2026-08,Missing Required Field,21
+fac-021,2025-12,Duplicate Message,48
+FAC-017,2026-03,Invalid Code,14
+FAC-017,2025-12,Invalid Code,11
+FAC-025,2025-11,Missing Required Field,24
+FAC-008,2026-08,Invalid Date,19
+FAC-007,2026-08,Invalid Code,15
+FAC-020,2026-01,Duplicate Message,6
+FAC-008,2025-11,Duplicate Message,19
+FAC-028,2025-12,Invalid Date,13
+FAC-030,2026-02,Missing Required Field,38
+FAC-013,2026-02,Invalid Date,11
+FAC-020,Mar 2026,Missing Required Field,11
+FAC-017,2026-09,Invalid Date,3
+ FAC-020 ,2026-03,Invalid Date,4
+FAC-021,2026-02,Duplicate Message,59
+FAC-002,2025-10,Invalid Date,77
+FAC-018,2026-01,Missing Required Field,48
+FAC-028,2026-03,Duplicate Message,14
+FAC-020,2026-09,Invalid Code,29
+FAC-024,2026-02,Invalid Code,61
+FAC-009,Jul 2026,Invalid Code,213
+FAC-010,2026-02,Invalid Date,17
+FAC-011,2026-06,Missing Required Field,20
+FAC-029,2025-10,Missing Required Field,177
+FAC029,04/2026,Duplicate Message,61
+FAC-012,2026-04,Invalid Date,17
+FAC-020,2025-12,Duplicate Message,6
+FAC-006,2026-07,Missing Required Field,30
+FAC-011,2025-11,Invalid Code,17
+ FAC-022 ,2025-10,Invalid Code,7
+FAC-011,2025-11,Missing Required Field,21
+FAC-028,2026-02,Duplicate Message,6
+FAC-040,2026-07,Duplicate Message,122
+FAC-036,2025-11,Missing Required Field,11
+FAC-019,2026-02,Missing Required Field,76
+FAC-016,2026-04,Invalid Date,55
+FAC-003,2026-07,Missing Required Field,39
+FAC-036,2025-10,Invalid Date,1
+FAC-028,2026-06,Invalid Date,6
+FAC-023,2026-05,Invalid Code,4
+FAC-016,2025-11,Invalid Code,179
+FAC-034,2026-05,Invalid Code,183
+FAC-016,2026-06,Invalid Code,131
+FAC-014,2026-06,Duplicate Message,17
+FAC-038,2026-09,Duplicate Message,12
+FAC-037,2026-06,Missing Required Field,14
+FAC-020,2026-06,Missing Required Field,15
+FAC-022,2026-04,Missing Required Field,10
+FAC-033,2026-07,Missing Required Field,170
+FAC-021,2026-03,Invalid Code,70
+FAC019,2026-03,Duplicate Message,33
+FAC-004,2026-04,Invalid Date,3
+FAC-038,2026-04,Invalid Code,30
+FAC-009,2026-05,Duplicate Message,104
+FAC-013,2026-02,Missing Required Field,16
+FAC-022,2026-02,Missing Required Field,12
+FAC-008,2026-01,Duplicate Message,20
+FAC-006,2026-08,Invalid Date,8
+FAC-005,2026-04,Invalid Code,57
+FAC-010,2025-12,Duplicate Message,39
+FAC-017,2026-03,Duplicate Message,11
+FAC-017,2026-09,Duplicate Message,8
+FAC-030,2025-10,Invalid Code,43
+FAC-037,07/2026,Invalid Date,6
+FAC-011,2026-04,Invalid Code,23
+FAC-034,2026-04,Duplicate Message,118
+FAC-004,2026-09,Duplicate Message,8
+FAC-010,2026-01,Missing Required Field,77
+FAC-022,2026-08,Invalid Code,10
+FAC-018,2025-11,Duplicate Message,34
+FAC-027,2026-01,Duplicate Message,1
+FAC-004,2026-04,Duplicate Message,5
+FAC-005,Sep 2026,Duplicate Message,47
+FAC-027,2026-04,Invalid Code,4
+ FAC-037 ,2026-01,Invalid Date,3
+FAC-026,Mar 2026,Invalid Code,26
+FAC-022,2025-10,Duplicate Message,7
+FAC-030,2026-03,Invalid Date,26
+FAC-012,2025-11,Invalid Date,14
+FAC-025,2026-02,Invalid Code,12
+FAC-029,2026-07,Duplicate Message,65
+FAC-032,2025-11,Duplicate Message,3
+FAC-015,2026-08,Invalid Code,13
+FAC-018,2025-11,Invalid Date,15
+FAC-025,2025-11,Invalid Date,7
+FAC-019,2025-10,Invalid Date,12
+FAC-009,2026-03,Duplicate Message,111
+FAC-001,2026-02,Duplicate Message,22
+FAC-005,2026-05,Duplicate Message,22
+FAC-006,2026-05,Duplicate Message,14
+FAC-019,2026-08,Invalid Code,35
+FAC-028,2026-07,Invalid Code,21
+FAC-038,2026-03,Missing Required Field,23
+FAC-037,2026-07,Missing Required Field,14
+FAC-013,2026-07,Invalid Code,46
+FAC-026,2025-11,Missing Required Field,30
+FAC-011,2026-06,Duplicate Message,11
+FAC-034,2025-12,Missing Required Field,289
+FAC-012,2025-10,Duplicate Message,16
+FAC-021,2026-03,Duplicate Message,41
+FAC-019,2026-03,Invalid Code,47
+FAC-002,2026-06,Invalid Date,60
+FAC-026,2026-04,Invalid Date,8
+FAC-016,2026-07,Missing Required Field,221
+FAC-035,2026-02,Invalid Code,12
+Fac 023,2026-04,Invalid Code,2
+FAC-004,2026-01,Missing Required Field,16
+FAC-017,2026-08,Invalid Date,8
+FAC-013,2026-06,Invalid Date,11
+FAC-018,08/2026,Invalid Date,10
+FAC-033,2026-09,Invalid Code,109
+FAC-003,2025-12,Invalid Code,27
+FAC-001,2026-08,Missing Required Field,37
+FAC-009,2026-09,Duplicate Message,92
+FAC-022,2026-07,Duplicate Message,3
+FAC-018,2026-02,Invalid Date,18
+FAC-039,2026-09,Missing Required Field,107
+FAC-024,2026-04,Invalid Date,23
+FAC-032,2026-02,Invalid Code,13
+FAC-010,2026-05,Missing Required Field,53
+ FAC-032 ,2026-07,Duplicate Message,4
+FAC-018,2025-12,Invalid Date,17
+FAC-003,2026-02,Missing Required Field,35
+FAC-032,2026-05,Invalid Date,5
+FAC-001,2026-04,Invalid Date,13
+ FAC-024 ,2026-05,Duplicate Message,28
+FAC-030,2025-11,Duplicate Message,25
+FAC-003,2025-11,Missing Required Field,30
+FAC-037,2026-07,Invalid Code,16
+FAC-004,2026-05,Duplicate Message,13
+FAC-008,2026-07,Missing Required Field,35
+FAC-018,2026-05,Duplicate Message,46
+FAC-033,2026-01,Missing Required Field,174
+FAC-002,2026-04,Missing Required Field,248
+FAC-098,2026-08,Invalid Code,37
+FAC-002,2025-11,Invalid Code,195
+FAC-009,2026-09,Invalid Code,152
+fac-031,2026-06,Invalid Date,2
+FAC-010,2025-11,Duplicate Message,38
+FAC-024,2026-07,Missing Required Field,56
+FAC-014,2025-10,Invalid Code,28
+FAC-014,2026-05,Invalid Code,39
+FAC-019,2026-06,Missing Required Field,53
+fac-038,2026-02,Missing Required Field,27
+FAC-024,2025-12,Invalid Date,19
+FAC-026,2026-06,Missing Required Field,28
+FAC-037,2026-01,Invalid Code,13
+FAC-013,2026-03,Invalid Date,8
+FAC-022,2026-08,Missing Required Field,16
+FAC-008,2026-07,Duplicate Message,20
+FAC-025,2025-10,Invalid Date,5
+FAC-029,2026-02,Invalid Date,55
+FAC-027,2025-12,Invalid Date,2
+FAC-008,2025-10,Invalid Date,15
+FAC-031,2025-10,Missing Required Field,7
+FAC-037,2026-02,Duplicate Message,6
+FAC-027,2026-07,Invalid Code,3
+FAC-036,2026-04,Invalid Code,13
+FAC-022,2026-04,Invalid Code,8
+FAC-007,2026-04,Invalid Code,17
+FAC-031,2026-06,Duplicate Message,4
+FAC-022,2026-09,Missing Required Field,13
+FAC-014,2026-02,Invalid Date,13
+FAC-011,2026-01,Invalid Date,8
+FAC-005,2026-04,Invalid Date,10
+FAC-004,2025-10,Invalid Date,4
+FAC-018,2026-03,Invalid Date,18
+FAC-024,2026-07,Invalid Date,18
+FAC035,2026-06,Missing Required Field,12
+FAC-037,2025-10,Invalid Date,10
+FAC-035,2026-08,Duplicate Message,13
+FAC-006,2025-12,Missing Required Field,32
+FAC-032,2026-01,Invalid Code,13
+FAC-002,2026-02,Invalid Date,75
+FAC-019,2025-10,Duplicate Message,22
+FAC-004,2026-08,Duplicate Message,8
+ FAC-025 ,2025-12,Duplicate Message,9
+FAC-027,2026-09,Missing Required Field,6
+FAC-023,09/2026,Invalid Code,4
+FAC-016,2026-06,Duplicate Message,67
+FAC013,2026-03,Invalid Code,25
+FAC-030,2025-11,Invalid Code,37
+FAC-031,2026-07,Missing Required Field,7
+FAC-031,2026-01,Invalid Date,1
+FAC-015,09/2026,Invalid Date,2
+FAC-038,2026-05,Missing Required Field,26
+FAC-014,2026-09,Missing Required Field,31
+fac-030,2026-06,Duplicate Message,31
+FAC-031,May 2026,Duplicate Message,3
+FAC-016,2026-03,Invalid Code,182
+FAC-004,2026-05,Invalid Date,1
+FAC-021,2026-01,Duplicate Message,44
+FAC-013,2026-09,Duplicate Message,10
+FAC-008,2026-06,Duplicate Message,18
+FAC-007,2026-07,Invalid Date,8
+FAC-039,2026-06,Duplicate Message,48
+FAC-035,2026-01,Duplicate Message,6
+FAC-013,2025-12,Invalid Date,5
+FAC-011,2026-04,Missing Required Field,34
+FAC-008,2025-10,Missing Required Field,46
+FAC-025,2026-03,Invalid Date,10
+FAC-029,2026-08,Duplicate Message,64
+FAC-013,2025-12,Missing Required Field,20
+FAC-014,2025-11,Invalid Code,23
+FAC-034,2026-01,Missing Required Field,338
+FAC-027,2026-03,Missing Required Field,5
+FAC-001,2026-01,Duplicate Message,17
+FAC-009,2026-08,Missing Required Field,276
+Fac 021,2026-08,Missing Required Field,125
+FAC-022,2026-09,Duplicate Message,5
+FAC-030,2026-05,Invalid Code,49
+FAC-005,2025-11,Duplicate Message,7
+FAC-018,2026-05,Invalid Code,84
+FAC-028,2026-01,Invalid Code,15
+FAC-002,2026-08,Invalid Code,189
+FAC-023,2026-07,Invalid Code,7
+FAC-010,2026-01,Invalid Code,63
+Fac 002,2026-03,Duplicate Message,120
+FAC-004,2026-09,Invalid Date,2
+FAC-003,2025-12,Invalid Date,13
+FAC-014,08/2026,Duplicate Message,15
+FAC-010,2026-05,Duplicate Message,28
+FAC-028,2025-10,Missing Required Field,19
+FAC-027,2026-07,Missing Required Field,4
+FAC-016,2026-02,Duplicate Message,100
+FAC-018,2025-12,Duplicate Message,20
+FAC-028,2026-04,Invalid Date,8
+FAC-004,2026-02,Duplicate Message,6
+Fac 009,2026-07,Missing Required Field,311
+FAC-031,2026-03,Invalid Code,4
+FAC-018,2026-07,Invalid Date,24
+FAC-024,2026-02,Missing Required Field,85
+FAC-026,2025-11,Invalid Code,24
+FAC-002,2026-03,Missing Required Field,273
+FAC-039,2026-08,Invalid Date,40
+FAC-024,2025-11,Invalid Code,57
+FAC-004,2026-06,Duplicate Message,4
+FAC-009,05/2026,Missing Required Field,205
+FAC-020,2025-10,Duplicate Message,5
+FAC-031,2026-07,Invalid Date,1
+FAC-035,2026-09,Invalid Date,2
+FAC-003,2026-01,Invalid Date,10
+FAC-039,2026-05,Missing Required Field,120
+FAC-023,2025-10,Missing Required Field,4
+FAC-015,2025-11,Duplicate Message,15
+FAC-006,2026-08,Invalid Code,49
+FAC-015,2026-01,Duplicate Message,11
+FAC-011,Feb 2026,Duplicate Message,7
+FAC-035,2026-03,Invalid Code,10
+FAC-016,2026-07,Duplicate Message,113
+Fac 034,2026-02,Invalid Code,215
+FAC-016,Jun 2026,Missing Required Field,193
+FAC-009,2026-08,Duplicate Message,134
+FAC001,2025-10,Invalid Date,17
+FAC-004,2026-02,Invalid Code,10
+FAC-005,2026-05,Invalid Date,8
+FAC-017,2025-11,Invalid Code,18
+FAC-002,2026-01,Missing Required Field,215
+FAC-020,2025-10,Missing Required Field,9
+FAC-010,2026-09,Missing Required Field,72
+FAC-021,2025-10,Invalid Date,37
+FAC-029,2026-07,Missing Required Field,134
+FAC-025,2025-10,Missing Required Field,20
+FAC-007,2026-06,Invalid Code,22
+FAC035,2026-04,Missing Required Field,20
+FAC-022,2026-01,Invalid Date,3
+FAC-033,2026-08,Missing Required Field,143
+FAC-027,2026-03,Duplicate Message,1
+FAC-035,2026-02,Duplicate Message,4
+FAC-032,2026-08,Duplicate Message,4
+FAC-023,2026-03,Duplicate Message,1
+FAC-029,2026-04,Invalid Date,31
+FAC-033,2026-07,Invalid Code,141
+FAC-016,09/2026,Missing Required Field,176
+FAC-029,2026-06,Missing Required Field,163
+FAC-030,2025-12,Duplicate Message,22
+FAC-018,2026-06,Invalid Date,19
+FAC-036,2025-12,Invalid Date,4
+FAC-012,2026-07,Missing Required Field,50
+FAC-015,2025-12,Invalid Code,16
+FAC-003,2026-04,Missing Required Field,39
+FAC-013,2026-04,Invalid Date,8
+FAC-011,2025-11,Invalid Date,7
+FAC-012,2026-09,Missing Required Field,57
+FAC-015,2025-11,Missing Required Field,21
+FAC-035,2025-10,Invalid Date,6
+FAC-027,2026-04,Missing Required Field,2
+FAC-027,2026-07,Invalid Date,1
+FAC-032,2025-12,Duplicate Message,4
+FAC-035,2026-03,Duplicate Message,10
+FAC-018,2026-09,Invalid Date,21
+fac-023,2025-11,Invalid Date,2
+FAC-025,2025-11,Invalid Code,9
+FAC-026,2026-07,Duplicate Message,22
+FAC-010,2026-05,Invalid Code,45
+FAC-024,2025-10,Invalid Date,29
+FAC-028,2026-07,Duplicate Message,9
+FAC-019,07/2026,Invalid Date,11
+FAC-026,2026-01,Invalid Date,7
+FAC-007,2026-08,Missing Required Field,19
+FAC-015,2026-08,Invalid Date,4
+FAC-017,2025-10,Missing Required Field,14
+FAC-023,2026-02,Invalid Date,1
+FAC-022,2026-03,Duplicate Message,4
+FAC-026,2026-07,Missing Required Field,21
+FAC-007,2026-03,Invalid Date,7
+FAC-005,2025-10,Invalid Code,53
+FAC-010,2025-10,Invalid Date,18
+FAC-036,2026-06,Invalid Code,5
+FAC-011,2026-05,Invalid Code,24
+FAC-024,2026-06,Invalid Code,58
+FAC-016,2026-05,Missing Required Field,198
+FAC-035,2026-09,Invalid Code,12
+FAC-020,2026-04,Invalid Date,8
+FAC-018,Nov 2025,Invalid Code,83
+FAC-035,2026-09,Missing Required Field,15
+FAC-021,2026-01,Invalid Code,82
+FAC-028,2026-06,Missing Required Field,23
+FAC-023,2025-11,Invalid Code,1
+FAC-021,2025-11,Invalid Code,94
+FAC-024,2026-01,Invalid Date,24
+FAC-036,2026-09,Duplicate Message,6
+FAC-021,2026-06,Duplicate Message,67
+FAC-009,2026-04,Invalid Date,85
+FAC-005,2026-05,Missing Required Field,31
+FAC-009,2026-06,Missing Required Field,318
+FAC-010,2025-10,Invalid Code,50
+FAC-001,2025-12,Invalid Code,30
+FAC-001,2026-03,Duplicate Message,16
+FAC-023,2026-05,Duplicate Message,4
+FAC-009,2026-09,Missing Required Field,188
+FAC-018,2026-09,Invalid Code,107
+FAC-019,2026-06,Duplicate Message,26
+FAC-025,2026-01,Invalid Date,6
+FAC-024,2025-11,Invalid Date,18
+FAC-021,2026-03,Invalid Date,28
+FAC-008,2025-12,Missing Required Field,44
+FAC-017,2026-09,Missing Required Field,21
+FAC-012,May 2026,Missing Required Field,42
+FAC-017,2026-05,Duplicate Message,10
+FAC-002,2026-09,Invalid Date,64
+FAC-031,2026-03,Duplicate Message,2
+FAC-018,2026-08,Invalid Code,76
+FAC-001,2026-08,Invalid Code,29
+FAC-019,2026-04,Missing Required Field,51
+FAC-020,2025-11,Invalid Date,5
+FAC-038,2026-09,Invalid Date,8
+FAC-032,2026-09,Missing Required Field,9
+FAC-032,2026-03,Invalid Code,8
+FAC-008,2026-02,Missing Required Field,46
+FAC-008,2026-03,Missing Required Field,54
+FAC-037,2026-05,Invalid Date,5
+FAC-025,2026-06,Missing Required Field,19
+FAC-031,2026-07,Invalid Code,4
+FAC-033,2026-08,Invalid Code,103
+FAC-029,2026-06,Invalid Date,57
+FAC-030,2026-06,Invalid Code,43
+FAC-034,Oct 2025,Invalid Date,57
+FAC-037,2025-11,Invalid Date,8
+FAC-030,2026-04,Invalid Date,19
+FAC010,2026-07,Missing Required Field,50
+FAC-033,2025-10,Duplicate Message,58
+FAC-016,2026-04,Duplicate Message,114
+FAC-001,2026-07,Duplicate Message,20
+FAC-002,2026-05,Missing Required Field,221
+FAC-028,2025-12,Duplicate Message,9
+FAC-010,2026-07,Invalid Code,47
+FAC-015,2025-10,Invalid Date,6
+FAC-008,2026-05,Duplicate Message,13
+FAC-024,2026-03,Duplicate Message,36
+FAC-003,2026-01,Missing Required Field,39
+FAC-033,2025-12,Invalid Code,135
+FAC-017,2026-08,Duplicate Message,6
+FAC-023,2026-06,Missing Required Field,4
+FAC-006,2026-04,Invalid Code,56
+FAC-028,2025-10,Duplicate Message,11
+FAC-026,2025-12,Invalid Code,27
+FAC-021,2025-10,Invalid Code,106
+FAC-023,2026-07,Duplicate Message,2
+FAC-019,2026-08,Duplicate Message,23
+FAC-032,2026-07,Missing Required Field,9
+FAC-018,2026-01,Duplicate Message,41
+FAC-001,2026-06,Duplicate Message,13
+FAC-040,2026-08,Duplicate Message,125
+FAC-030,2026-05,Invalid Date,15
+FAC-036,2026-05,Invalid Code,4
+FAC-009,2026-06,Invalid Date,94
+FAC-032,2026-08,Missing Required Field,12
+FAC-022,06/2026,Invalid Date,5
+FAC-031,2026-09,Invalid Date,1
+ FAC-003 ,2026-03,Duplicate Message,16
+FAC-020,2026-06,Duplicate Message,1
+FAC-004,07/2026,Duplicate Message,6
+FAC-009,2026-02,Invalid Code,189
+FAC-013,2026-02,Duplicate Message,10
+FAC-015,2025-12,Missing Required Field,19
+FAC-030,2026-04,Invalid Code,35
+FAC-037,2026-03,Duplicate Message,9
+FAC-012,2026-07,Invalid Date,14
+FAC-024,2026-03,Missing Required Field,66
+FAC-006,2026-02,Invalid Date,9
+FAC-010,2026-08,Invalid Date,21
+FAC-025,Jun 2026,Invalid Date,6
+FAC-027,2026-05,Missing Required Field,5
+FAC-020,2026-05,Invalid Date,5
+FAC-029,2026-07,Invalid Code,100
+FAC-013,2025-10,Invalid Date,4
+FAC-010,2025-11,Missing Required Field,79
+FAC-007,2025-11,Invalid Date,6
+FAC-028,2026-07,Invalid Date,5
+FAC-037,2026-02,Invalid Date,3
+FAC-012,2026-09,Duplicate Message,33
+FAC-029,2026-03,Invalid Code,119
+FAC-004,2026-04,Missing Required Field,15
+FAC-002,2026-04,Duplicate Message,116
+FAC-014,2026-07,Duplicate Message,16
+FAC-016,2026-09,Duplicate Message,75
+FAC-035,2026-04,Invalid Date,2
+FAC-037,05/2026,Missing Required Field,12
+FAC-012,2026-04,Duplicate Message,27
+FAC-003,09/2026,Invalid Date,12
+FAC-009,2025-12,Duplicate Message,139
+FAC-033,2025-11,Missing Required Field,153
+FAC-022,2025-12,Invalid Date,2
+FAC-031,2026-05,Invalid Code,4
+FAC-021,2026-05,Invalid Code,81
+FAC-001,2025-12,Invalid Date,8
+FAC-032,2026-05,Duplicate Message,4
+FAC-021,2026-09,Duplicate Message,55
+FAC-036,2025-11,Invalid Code,13
+FAC-034,2026-05,Invalid Date,76
+FAC-035,2026-03,Invalid Date,4
+FAC-013,2026-08,Missing Required Field,19
+FAC-032,2026-06,Missing Required Field,11
+FAC-035,2026-06,Invalid Date,4
+FAC-026,2026-09,Missing Required Field,32
+FAC-020,2026-02,Invalid Date,4
+FAC-003,2026-05,Invalid Date,8
+FAC032,2025-10,Duplicate Message,3
+FAC-025,2025-12,Missing Required Field,19
+FAC-015,2026-08,Duplicate Message,9
+FAC-011,2025-10,Duplicate Message,17
+FAC-022,2026-01,Duplicate Message,5
+FAC-038,2026-02,Invalid Code,25
+FAC-001,2026-01,Invalid Date,9
+FAC-033,2026-06,Invalid Code,124
+FAC-007,2025-10,Invalid Date,6
+FAC-019,2025-12,Invalid Code,42
+FAC-010,2026-06,Invalid Code,54
+FAC-017,2025-10,Invalid Code,17
+FAC-032,06/2026,Invalid Date,3
+FAC-037,2026-02,Missing Required Field,15
+FAC-038,2026-04,Missing Required Field,30
+FAC-027,2025-12,Missing Required Field,4
+FAC-010,2025-12,Missing Required Field,74
+FAC-016,2026-04,Invalid Code,198
+ FAC-020 ,Apr 2026,Invalid Code,28
+FAC-004,2026-08,Invalid Date,1
+FAC-034,2026-02,Missing Required Field,257
+FAC035,Nov 2025,Missing Required Field,14
+FAC-033,2025-12,Missing Required Field,188
+FAC-007,2026-09,Duplicate Message,9
+FAC-028,05/2026,Duplicate Message,15
+FAC-012,2026-03,Duplicate Message,23
+FAC-030,2025-10,Missing Required Field,50
+FAC-021,2025-11,Missing Required Field,117
+FAC-026,2025-10,Invalid Code,24
+FAC-031,2026-08,Invalid Date,4
+FAC-014,2025-11,Invalid Date,10
+FAC-038,2026-07,Invalid Code,16
+FAC-020,2026-01,Missing Required Field,21
+FAC-023,08/2026,Invalid Date,1
+FAC-011,2026-02,Missing Required Field,28
+FAC-038,2026-09,Invalid Code,18
+FAC-011,2026-06,Invalid Code,15
+FAC-020,2025-12,Invalid Code,30
+FAC-026,2026-05,Invalid Code,21
+FAC-026,2026-03,Invalid Date,7
+FAC-036,2026-07,Invalid Date,3
+ FAC-028 ,2026-06,Invalid Code,24
+Fac 020,2026-06,Invalid Code,21
+FAC-024,2026-06,Missing Required Field,46
+FAC-022,2026-07,Missing Required Field,5
+FAC-028,2025-11,Invalid Code,17
+FAC-033,2025-11,Invalid Code,125
+FAC-030,2025-10,Invalid Date,15
+FAC-015,2025-12,Invalid Date,4
+FAC-011,2026-04,Duplicate Message,10
+FAC-030,2026-07,Invalid Date,24
+FAC-017,2025-11,Duplicate Message,6
+FAC-015,2025-10,Missing Required Field,16
+ FAC-021 ,2026-07,Invalid Date,40
+FAC-023,Apr 2026,Missing Required Field,7
+FAC-032,2025-10,Invalid Code,13
+FAC-036,2025-10,Invalid Code,10
+FAC-025,2026-08,Missing Required Field,31
+FAC-014,2026-06,Invalid Date,8
+FAC-022,2026-04,Invalid Date,6
+FAC-008,2026-06,Missing Required Field,53
+FAC-011,2026-08,Duplicate Message,13
+FAC-018,2026-04,Invalid Code,109
+FAC-036,2026-01,Missing Required Field,9
+FAC-019,2026-08,Invalid Date,11
+FAC-008,2026-09,Invalid Date,13
+FAC-012,May 2026,Invalid Code,26
+FAC-032,Jan 2026,Missing Required Field,9
+FAC-023,2025-12,Missing Required Field,6
+FAC-020,2026-07,Invalid Date,5
+FAC-002,2026-07,Invalid Date,75
+FAC-012,2026-07,Duplicate Message,24
+FAC-009,2026-09,Invalid Date,45
+FAC-030,2026-01,Missing Required Field,41
+FAC-010,2026-06,Invalid Date,25
+FAC-006,10/2025,Invalid Code,56
+FAC-029,2026-04,Missing Required Field,162
+FAC-003,2026-07,Invalid Code,27
+FAC-006,2026-04,Duplicate Message,14
+FAC-001,2025-10,Duplicate Message,24
+FAC-005,Jun 2026,Duplicate Message,41
+FAC-003,2026-02,Invalid Code,25
+FAC-005,2026-09,Invalid Date,48
+FAC-016,2025-12,Invalid Date,61
+FAC-040,2026-09,Invalid Code,193
+FAC-025,2026-04,Duplicate Message,7
+FAC-012,Nov 2025,Invalid Code,48
+FAC-014,2026-08,Invalid Code,22
+FAC-019,2025-12,Invalid Date,16
+FAC-030,2025-11,Missing Required Field,47
+FAC-038,2026-02,Duplicate Message,15
+FAC-009,2025-11,Duplicate Message,114
+FAC-012,2025-12,Invalid Code,42
+FAC-020,2026-06,Invalid Date,3
+FAC-004,2025-10,Missing Required Field,14
+FAC-028,04/2026,Missing Required Field,30
+FAC-013,Jan 2026,Invalid Date,7
+FAC-007,2026-06,Duplicate Message,11
+FAC-029,2025-11,Invalid Date,54
+FAC-030,2026-08,Missing Required Field,35
+FAC-021,2026-04,Missing Required Field,122
+fac-026,2025-10,Invalid Date,13
+FAC-021,2026-07,Invalid Code,95
+FAC-011,12/2025,Invalid Date,6
+FAC-004,2026-03,Duplicate Message,2
+FAC-025,2026-02,Duplicate Message,11
+FAC-029,2025-11,Duplicate Message,79
+fac-004,2025-11,Duplicate Message,6
+FAC-024,2026-07,Duplicate Message,27
+Fac 003,2025-11,Invalid Code,21
+FAC-024,2026-02,Duplicate Message,40
+FAC-011,2026-09,Duplicate Message,11
+FAC-033,2026-04,Duplicate Message,68
+FAC-004,2026-07,Missing Required Field,17
+FAC-036,2025-12,Missing Required Field,10
+FAC-012,2026-06,Missing Required Field,70
+FAC-031,2025-11,Duplicate Message,1
+FAC-002,2026-05,Duplicate Message,103
+FAC-016,2025-12,Duplicate Message,97
+FAC-001,2026-01,Missing Required Field,52
+FAC-012,Jan 2026,Duplicate Message,21
+FAC-007,2026-09,Invalid Code,20
+FAC-011,2026-05,Invalid Date,4
+fac-014,2025-10,Invalid Date,9
+FAC-036,2026-03,Missing Required Field,10
+FAC-002,2026-03,Invalid Code,207
+FAC-031,2026-02,Invalid Code,2
+FAC-003,2025-10,Invalid Code,16
+FAC-038,Jun 2026,Invalid Code,17
+FAC-033,2026-05,Invalid Date,59
+FAC-007,2026-08,Duplicate Message,7
+fac-031,2026-01,Missing Required Field,3
+FAC-022,2026-03,Invalid Date,2
+FAC-024,2026-08,Missing Required Field,89
+fac-025,2026-05,Invalid Code,11
+FAC-010,2026-03,Invalid Date,13
+FAC-022,2026-05,Duplicate Message,3
+FAC-011,2026-07,Invalid Code,20
+FAC-034,2025-11,Duplicate Message,89
+FAC-005,2026-01,Invalid Date,7
+FAC-021,2025-12,Invalid Date,28
+FAC-030,2026-04,Duplicate Message,22
+FAC-028,2026-02,Invalid Code,20
+FAC-023,2026-07,Missing Required Field,5
+FAC-012,2025-10,Missing Required Field,51
+FAC-006,2026-06,Invalid Code,56
+FAC-006,2026-01,Missing Required Field,31
+FAC-027,2026-03,Invalid Code,2
+FAC-019,2026-08,Missing Required Field,46
+FAC-010,2026-04,Invalid Date,18
+FAC-025,01/2026,Invalid Code,23
+FAC-004,2026-02,Missing Required Field,11
+FAC-023,2026-02,Duplicate Message,1
+FAC018,Jun 2026,Missing Required Field,43
+FAC-003,Dec 2025,Duplicate Message,17
+FAC-008,2026-06,Invalid Date,10
+ FAC-032 ,2026-08,Invalid Date,1
+FAC-002,2026-04,Invalid Date,87
+FAC-028,2025-12,Invalid Code,22
+FAC-036,2026-09,Invalid Date,6
+FAC-011,2025-10,Invalid Code,20
+FAC-012,2025-10,Invalid Date,10
+FAC-006,2026-02,Invalid Code,52
+FAC-011,2026-08,Missing Required Field,21
+FAC-020,2026-05,Missing Required Field,15
+FAC-006,2026-03,Invalid Code,60
+Fac 024,2026-01,Invalid Code,37
+FAC-037,2026-04,Duplicate Message,7
+FAC-006,2025-10,Invalid Date,10
+FAC-018,2026-01,Invalid Code,105
+FAC-024,2026-04,Missing Required Field,67
+FAC-009,2026-02,Invalid Date,76
+ FAC-016 ,2026-08,Invalid Date,73
+FAC-009,2025-10,Invalid Code,157
+FAC-037,2026-08,Missing Required Field,16
+FAC-008,2026-01,Missing Required Field,31
+FAC-008,2026-09,Duplicate Message,18
+FAC-014,2026-05,Missing Required Field,46
+FAC-010,2026-02,Invalid Code,70
+Fac 022,2026-05,Invalid Code,10
+FAC-024,2026-05,Invalid Code,52
+FAC-014,2026-08,Missing Required Field,45
+FAC-003,2026-03,Invalid Code,20
+FAC-035,07/2026,Duplicate Message,4
+FAC-019,2026-02,Invalid Code,40
+FAC-037,2026-08,Duplicate Message,6
+FAC-004,2025-12,Invalid Date,3
+FAC-039,2026-08,Duplicate Message,53
+FAC-019,2026-06,Invalid Code,38
+FAC-033,2026-01,Invalid Date,61
+FAC-020,Jan 2026,Invalid Code,31
+FAC-018,2026-07,Duplicate Message,27
+FAC-017,2026-02,Missing Required Field,14
+FAC-010,2026-08,Duplicate Message,28
+FAC-002,2026-05,Invalid Code,184
+fac-031,2026-02,Missing Required Field,8
+FAC-035,2026-05,Invalid Date,4
+FAC-028,2026-03,Invalid Code,20
+FAC013,2026-08,Invalid Code,52
+FAC-019,2026-09,Invalid Code,42
+FAC-016,2026-08,Missing Required Field,246
+FAC-013,2026-01,Duplicate Message,14
+FAC-024,2026-09,Invalid Code,54
+FAC-012,2026-09,Invalid Date,13
+FAC-025,2026-02,Invalid Date,4
+FAC-003,07/2026,Duplicate Message,17
+FAC-001,2026-06,Missing Required Field,40
+FAC-002,Jul 2026,Duplicate Message,113
+FAC-022,2026-02,Invalid Code,8
+FAC-021,2026-04,Invalid Code,95
+FAC-030,2026-02,Duplicate Message,17
+FAC-024,2026-02,Invalid Date,24
+FAC-019,2026-09,Duplicate Message,25
+FAC-004,2026-02,Invalid Date,3
+FAC-014,2026-06,Invalid Code,37
+FAC-029,Apr 2026,Invalid Code,90
+FAC-015,2026-08,Missing Required Field,14
+FAC-034,2026-01,Invalid Date,103
+FAC-025,2026-05,Invalid Date,5
+FAC-006,2026-03,Invalid Date,6
+FAC-022,2026-01,Invalid Code,12
+FAC-030,2026-02,Invalid Code,39
+FAC-021,2026-05,Missing Required Field,113
+FAC-008,2025-10,Duplicate Message,17
+FAC-012,2026-02,Invalid Date,12
+FAC-015,2026-01,Invalid Date,2
+FAC-007,2025-10,Missing Required Field,24
+FAC-030,2026-02,Invalid Date,14
+FAC-036,2026-05,Invalid Date,1
+FAC-019,2026-05,Duplicate Message,30
+FAC-016,2026-06,Invalid Date,65
+FAC-015,2026-04,Missing Required Field,21
+FAC-033,2026-05,Missing Required Field,198
+FAC-021,2026-08,Invalid Date,33
+FAC-012,2026-01,Invalid Code,35
+FAC-013,2026-03,Duplicate Message,16
+FAC-015,2025-11,Invalid Code,13
+FAC-033,2025-10,Invalid Code,120
+FAC-028,2025-12,Missing Required Field,34
+FAC-039,2026-08,Missing Required Field,127
+FAC-034,2026-06,Invalid Date,77
+FAC-020,2026-08,Invalid Date,1
+FAC-020,2026-02,Duplicate Message,3
+FAC-018,2026-01,Invalid Date,18
+FAC-002,2025-12,Invalid Code,128
+FAC-009,Aug 2026,Invalid Date,82
+FAC009,2026-02,Missing Required Field,256
+FAC-016,2026-03,Missing Required Field,237
+FAC-018,2026-04,Missing Required Field,53
+ FAC-035 ,2026-06,Duplicate Message,9
+FAC-019,2025-10,Invalid Code,34
+FAC006,2026-06,Missing Required Field,15
+FAC-016,2026-08,Invalid Code,195
+FAC-026,2025-12,Duplicate Message,11
+FAC-033,2026-01,Invalid Code,153
+FAC-005,2026-04,Duplicate Message,19
+FAC-004,2026-03,Invalid Code,9
+FAC-030,2026-03,Duplicate Message,23
+FAC-020,2026-09,Duplicate Message,15
+FAC-038,2026-07,Missing Required Field,25
+FAC-012,03/2026,Missing Required Field,35
+FAC-038,2026-07,Invalid Date,11
+FAC-008,2026-04,Missing Required Field,32
+FAC-006,2026-09,Invalid Code,58
+FAC-007,2025-10,Duplicate Message,16
+FAC-017,2026-07,Invalid Code,15
+FAC-021,2026-04,Invalid Date,29
+FAC-012,2026-06,Invalid Date,20
+FAC-031,Sep 2026,Invalid Code,2
+FAC-005,2026-02,Missing Required Field,21
+FAC-024,2026-08,Invalid Code,54
+FAC-005,2026-06,Missing Required Field,73
+FAC-031,2025-12,Invalid Date,1
+FAC-018,2025-10,Invalid Date,13
+FAC-031,2026-04,Invalid Code,4
+FAC-023,2026-05,Invalid Date,2
+FAC-036,2026-07,Invalid Code,7
+FAC-005,2026-08,Invalid Code,153
+FAC-003,2026-06,Missing Required Field,38
+FAC-038,2026-03,Invalid Date,12
+FAC-021,2026-03,Missing Required Field,108
+FAC-019,2026-01,Missing Required Field,44
+FAC-018,2025-10,Missing Required Field,43
+FAC-034,Jun 2026,Duplicate Message,98
+FAC-023,2026-04,Duplicate Message,1
+FAC-035,2025-11,Invalid Date,4
+FAC-019,2026-04,Invalid Code,36
+FAC-007,2026-03,Invalid Code,15
+FAC-011,2026-02,Invalid Date,4
+FAC-033,2026-02,Invalid Code,120
+FAC-017,2026-01,Missing Required Field,16
+FAC-003,2026-01,Invalid Code,19
+FAC-020,2026-08,Duplicate Message,5
+FAC-025,2026-08,Invalid Code,11
+FAC-038,2026-08,Invalid Code,18
+FAC-023,2026-09,Missing Required Field,5
+FAC-025,2026-03,Missing Required Field,19
+FAC-006,2026-05,Invalid Code,48
+ FAC-037 ,2026-02,Invalid Code,16
+FAC-017,2026-06,Invalid Code,16
+FAC-035,2025-12,Invalid Code,6
+FAC-008,2025-11,Invalid Code,23
+FAC-003,2026-08,Missing Required Field,46
+FAC-012,2026-08,Invalid Date,16
+FAC-026,2026-08,Invalid Date,6
+FAC029,2025-12,Invalid Code,131
+FAC-025,2026-06,Duplicate Message,9
+FAC-037,2025-12,Duplicate Message,4
+FAC-022,2025-12,Invalid Code,6
+FAC-040,2026-07,Invalid Code,226
+FAC-001,2026-02,Missing Required Field,34
+FAC-025,2026-01,Missing Required Field,19
+FAC-033,2025-10,Missing Required Field,176
+FAC-021,2026-01,Missing Required Field,104
+FAC-015,2026-04,Duplicate Message,8
+FAC-020,2026-03,Duplicate Message,7
+FAC-003,2025-11,Duplicate Message,14
+FAC-016,2026-03,Invalid Date,70
+FAC-030,2026-01,Invalid Date,15
+FAC-003,2026-04,Duplicate Message,12
+FAC-022,2025-11,Invalid Date,2
+FAC-004,2025-11,Invalid Code,16
+FAC-008,2026-03,Duplicate Message,19
+FAC-007,2026-03,Missing Required Field,27
+FAC-009,2025-12,Invalid Date,91
+FAC-009,2026-05,Invalid Date,53
+FAC-019,2026-07,Duplicate Message,29
+FAC-024,2026-05,Missing Required Field,66
+FAC-032,Feb 2026,Duplicate Message,4
+FAC-039,2026-06,Missing Required Field,114
+FAC-040,2026-08,Invalid Code,220
+FAC-023,2026-03,Invalid Date,2
+FAC-031,2026-02,Invalid Date,1
+FAC-009,2025-10,Invalid Date,97
+FAC-016,2026-02,Missing Required Field,238
+FAC-008,2026-02,Invalid Date,13
+FAC-016,2025-12,Missing Required Field,290
+FAC-033,2025-11,Duplicate Message,88
+FAC-022,2026-06,Duplicate Message,8
+FAC-013,2026-01,Invalid Code,32
+FAC-006,2026-02,Duplicate Message,18
+FAC-007,2026-02,Duplicate Message,12
+FAC-033,2026-06,Missing Required Field,137
+FAC-011,2026-09,Invalid Code,24
+FAC-031,2025-10,Duplicate Message,1
+FAC-004,2026-06,Invalid Code,8
+FAC-036,Jan 2026,Invalid Date,2
+ FAC-027 ,2025-11,Duplicate Message,2
+FAC-040,2026-09,Duplicate Message,112
+FAC-019,2025-11,Missing Required Field,56
+FAC-023,Mar 2026,Missing Required Field,3
+FAC-006,2026-07,Invalid Date,18
+FAC-005,2025-10,Invalid Date,7
+FAC-034,2026-03,Invalid Code,246
+FAC-009,2026-04,Invalid Code,213
+FAC-003,2026-06,Duplicate Message,13
+FAC-038,2026-04,Duplicate Message,14
+FAC-028,03/2026,Invalid Date,6
+FAC-022,2025-10,Invalid Date,3
+FAC-031,2025-12,Invalid Code,7
+FAC-034,2026-03,Missing Required Field,309
+FAC-019,Jul 2026,Invalid Code,48
+FAC-014,2026-03,Invalid Code,30
+FAC-004,2026-07,Invalid Code,10
+FAC-031,2026-08,Missing Required Field,8
+FAC-020,2026-01,Invalid Date,2
+FAC-029,2026-08,Missing Required Field,134
+FAC-029,2026-03,Missing Required Field,144
+FAC-037,2026-07,Duplicate Message,11
+FAC-037,2025-12,Invalid Code,10
+FAC-019,2026-07,Missing Required Field,56
+Fac 036,2025-12,Invalid Code,9
+FAC-003,2026-06,Invalid Code,27
+FAC-029,2026-01,Invalid Date,61
+FAC-008,2025-12,Invalid Code,35
+FAC-009,2026-06,Duplicate Message,127
+FAC-010,2026-09,Invalid Date,17
+FAC-023,2026-02,Missing Required Field,8
+FAC-031,2025-12,Missing Required Field,3
+FAC-022,2026-01,Missing Required Field,13
+FAC-025,2026-04,Invalid Code,16
+FAC-009,2025-12,Invalid Code,234
+FAC-030,2026-08,Duplicate Message,27
+FAC-002,2025-11,Missing Required Field,260
+FAC-010,2026-06,Missing Required Field,93
+FAC-032,2025-11,Invalid Date,6
+FAC-006,11/2025,Missing Required Field,26
+FAC-002,Aug 2026,Missing Required Field,269
+FAC-031,2026-06,Missing Required Field,6
+FAC-026,2026-09,Invalid Date,15
+FAC-003,2026-04,Invalid Code,31
+FAC-026,2026-06,Invalid Code,23
+FAC-025,2025-10,Invalid Code,16
+FAC-012,2026-06,Duplicate Message,30
+FAC-022,2026-02,Duplicate Message,1
+FAC-004,2026-04,Invalid Code,10
+fac-001,2026-02,Invalid Date,16
+ FAC-014 ,2025-12,Invalid Date,11
+FAC-019,2026-06,Invalid Date,9
+FAC-020,2025-11,Duplicate Message,6
+FAC-004,2026-07,Invalid Date,7
+FAC-024,2026-03,Invalid Date,27
+FAC-034,2026-04,Invalid Date,83
+FAC-017,2026-08,Missing Required Field,14
+FAC-029,2026-09,Duplicate Message,60
+FAC-027,2026-02,Missing Required Field,4

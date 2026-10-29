@@ -1,0 +1,20 @@
+source_table,raw_row_id,raw_facility_id,raw_month,value,reject_reason
+monthly_submissions,67,FAC-036,2026-08,3395,Duplicate facility-month
+monthly_submissions,74,FAC-034,11/2025,19460,Duplicate facility-month
+monthly_submissions,90,FAC-023,2025-12,1013,Duplicate facility-month
+monthly_submissions,99,FAC-028,2026-06,4719,Duplicate facility-month
+monthly_submissions,199,FAC-020,2026-07,8136,Duplicate facility-month
+monthly_submissions,278,FAC-028,2026-05,4564,Duplicate facility-month
+monthly_submissions,424,FAC-029,2026-02,47958,Duplicate facility-month
+monthly_submissions,457,FAC-035,2026-06,2270,Duplicate facility-month
+monthly_submissions,31,FAC-027,2025-11,,Missing record count
+monthly_submissions,241,FAC-024,2025-11,,Missing record count
+monthly_submissions,298,FAC-015,2026-01,,Missing record count
+monthly_submissions,78,FAC-024,2026-02,949800,Out-of-range record count
+monthly_submissions,83,FAC-027,2026-06,-594,Out-of-range record count
+monthly_submissions,211,FAC-025,2026-09,554200,Out-of-range record count
+monthly_submissions,217,FAC-016,2026-03,-8663,Out-of-range record count
+monthly_submissions,313,FAC-009,2026-07,-54087,Out-of-range record count
+monthly_submissions,441,FAC-099,2026-09,4120,Unknown facility ID
+validation_errors,148,FAC-099,2026-09,52,Unknown facility ID
+validation_errors,1080,FAC-098,2026-08,37,Unknown facility ID

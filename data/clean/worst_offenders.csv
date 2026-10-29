@@ -1,0 +1,11 @@
+offender_rank,facility_id,facility_name,facility_type,county,records_3m,errors_3m,error_rate_3m,top_error_type
+1,FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,11595,911,0.07857,Missing Required Field
+2,FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,26407,1657,0.06275,Missing Required Field
+3,FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2340,137,0.05855,Missing Required Field
+4,FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,5822,304,0.05222,Missing Required Field
+5,FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,27290,955,0.03499,Invalid Code
+6,FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,7908,209,0.02643,Missing Required Field
+7,FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,3927,103,0.02623,Missing Required Field
+8,FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,11246,285,0.02534,Missing Required Field
+9,FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,25565,510,0.01995,Missing Required Field
+10,FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,25264,483,0.01912,Missing Required Field

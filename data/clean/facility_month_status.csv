@@ -1,0 +1,461 @@
+facility_id,facility_name,facility_type,county,report_month,month_end,record_count,last_received_date,total_errors,error_rate,compliance_status
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2025-10,2025-10-31,4214,2025-10-23,99,0.02349,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2025-10,2025-10-31,35743,2025-10-23,585,0.01637,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2025-10,2025-10-31,3631,2025-10-25,71,0.01955,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2025-10,2025-10-31,1282,2025-10-22,29,0.02262,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2025-10,2025-10-31,8822,2025-10-24,95,0.01077,Compliant
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2025-10,2025-10-31,14206,2025-10-28,122,0.00859,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2025-10,2025-10-31,3904,2025-10-28,62,0.01588,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2025-10,2025-10-31,7955,2025-10-22,126,0.01584,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2025-10,2025-10-31,47642,2025-10-22,582,0.01222,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2025-10,2025-10-31,8857,2025-10-23,165,0.01863,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2025-10,2025-10-31,4158,2025-10-26,68,0.01635,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2025-10,2025-10-31,7363,2025-10-23,116,0.01575,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2025-10,2025-10-31,15335,2025-10-22,82,0.00535,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2025-10,2025-10-31,2028,2025-10-24,89,0.04389,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2025-10,2025-10-31,4723,2025-10-26,43,0.0091,Compliant
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2025-10,2025-10-31,8541,2025-10-22,618,0.07236,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2025-10,2025-10-31,805,2025-10-24,49,0.06087,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2025-10,2025-10-31,11359,2025-10-23,148,0.01303,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2025-10,2025-10-31,7540,2025-10-22,113,0.01499,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2025-10,2025-10-31,8669,2025-10-22,42,0.00484,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2025-10,2025-10-31,3789,2025-10-23,311,0.08208,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2025-10,2025-10-31,4812,2025-10-25,28,0.00582,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2025-10,2025-10-31,1027,2025-10-23,12,0.01168,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2025-10,2025-10-31,9508,2025-10-22,206,0.02167,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2025-10,2025-10-31,5633,2025-10-24,50,0.00888,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2025-10,2025-10-31,5455,2025-10-27,90,0.0165,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2025-10,2025-10-31,609,2025-10-25,10,0.01642,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2025-10,2025-10-31,4538,2025-10-28,63,0.01388,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2025-10,2025-10-31,51381,2025-10-25,444,0.00864,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2025-10,2025-10-31,26053,2025-10-22,125,0.0048,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2025-10,2025-10-31,876,2025-10-27,16,0.01826,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2025-10,2025-10-31,6069,2025-10-28,28,0.00461,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2025-10,2025-10-31,40298,2025-10-26,414,0.01027,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2025-10,2025-10-31,34123,2025-10-22,641,0.01878,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2025-10,2025-10-31,2442,2025-10-25,45,0.01843,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2025-10,2025-10-31,3459,2025-10-26,20,0.00578,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2025-10,2025-10-31,5475,2025-10-26,43,0.00785,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2025-11,2025-11-30,3957,2025-11-27,83,0.02098,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2025-11,2025-11-30,34950,2025-11-22,652,0.01866,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2025-11,2025-11-30,3790,2025-11-27,76,0.02005,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2025-11,2025-11-30,1401,2025-11-27,41,0.02926,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2025-11,2025-11-30,9457,2025-11-27,116,0.01227,Compliant
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2025-11,2025-11-30,14111,2025-11-27,99,0.00702,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2025-11,2025-11-30,3793,2025-11-27,70,0.01846,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2025-11,2025-11-30,7999,2025-11-26,93,0.01163,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2025-11,2025-11-30,47601,2025-11-25,680,0.01429,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2025-11,2025-11-30,8738,2025-11-24,191,0.02186,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2025-11,2025-11-30,4231,2025-11-22,50,0.01182,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2025-11,2025-11-30,7150,2025-11-23,132,0.01846,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2025-11,2025-11-30,16008,2025-11-28,100,0.00625,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2025-11,2025-11-30,1940,2025-11-28,86,0.04433,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2025-11,2025-11-30,4763,2025-11-28,55,0.01155,Compliant
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2025-11,2025-11-30,8697,2025-11-25,595,0.06841,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2025-11,2025-11-30,781,2025-11-26,45,0.05762,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2025-11,2025-11-30,12424,2025-11-22,190,0.01529,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2025-11,2025-11-30,7973,2025-11-26,139,0.01743,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2025-11,2025-11-30,8771,2025-11-22,53,0.00604,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2025-11,2025-11-30,3699,2025-11-22,301,0.08137,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2025-11,2025-11-30,4738,2025-11-24,26,0.00549,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2025-11,2025-11-30,1036,2025-11-28,11,0.01062,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2025-11,2025-11-30,0,,157,,Data Incomplete
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2025-11,2025-11-30,5319,2025-11-23,49,0.00921,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2025-11,2025-11-30,5357,2025-11-27,75,0.014,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2025-11,2025-11-30,0,,9,,Data Incomplete
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2025-11,2025-11-30,4515,2025-11-23,55,0.01218,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2025-11,2025-11-30,51065,2025-11-26,472,0.00924,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2025-11,2025-11-30,24662,2025-11-26,119,0.00483,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2025-11,2025-11-30,801,2025-11-26,12,0.01498,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2025-11,2025-11-30,6058,2025-11-25,26,0.00429,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2025-11,2025-11-30,41049,2025-11-24,419,0.01021,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2025-11,2025-11-30,32306,2025-11-22,597,0.01848,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2025-11,2025-11-30,2548,2025-11-23,40,0.0157,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2025-11,2025-11-30,3572,2025-11-23,30,0.0084,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2025-11,2025-11-30,5010,2025-11-27,39,0.00778,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2025-12,2025-12-31,4190,2025-12-22,107,0.02554,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2025-12,2025-12-31,34485,2025-12-28,490,0.01421,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2025-12,2025-12-31,3604,2025-12-27,88,0.02442,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2025-12,2025-12-31,1304,2025-12-22,29,0.02224,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2025-12,2025-12-31,9234,2025-12-25,109,0.0118,Compliant
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2025-12,2025-12-31,14301,2025-12-25,104,0.00727,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2025-12,2025-12-31,0,,0,,Silent
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2025-12,2025-12-31,7485,2025-12-24,115,0.01536,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2025-12,2025-12-31,52169,2025-12-23,769,0.01474,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2025-12,2025-12-31,8823,2025-12-28,176,0.01995,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2025-12,2025-12-31,4598,2025-12-25,56,0.01218,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2025-12,2025-12-31,7284,2025-12-25,129,0.01771,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2025-12,2025-12-31,14021,2025-12-28,67,0.00478,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2025-12,2025-12-31,1988,2025-12-28,93,0.04678,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2025-12,2025-12-31,4781,2025-12-22,44,0.0092,Compliant
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2025-12,2025-12-31,9228,2025-12-24,624,0.06762,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2025-12,2025-12-31,736,2025-12-24,35,0.04755,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2025-12,2025-12-31,11797,2025-12-24,163,0.01382,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2025-12,2025-12-31,8020,2025-12-26,153,0.01908,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2025-12,2025-12-31,8497,2025-12-23,53,0.00624,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2025-12,2025-12-31,4003,2025-12-26,271,0.0677,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2025-12,2025-12-31,4807,2025-12-23,25,0.0052,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2025-12,2025-12-31,1013,2025-12-24,15,0.01481,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2025-12,2025-12-31,8833,2025-12-25,193,0.02185,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2025-12,2025-12-31,5379,2025-12-24,53,0.00985,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2025-12,2025-12-31,5366,2025-12-24,76,0.01416,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2025-12,2025-12-31,602,2025-12-26,8,0.01329,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2025-12,2025-12-31,4866,2025-12-26,78,0.01603,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2025-12,2025-12-31,48220,2025-12-22,430,0.00892,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2025-12,2025-12-31,26637,2025-12-24,141,0.00529,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2025-12,2025-12-31,836,2025-12-22,11,0.01316,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2025-12,2025-12-31,6316,2025-12-26,25,0.00396,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2025-12,2025-12-31,37709,2025-12-23,460,0.0122,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2025-12,2025-12-31,35621,2025-12-23,704,0.01976,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2025-12,2025-12-31,2472,2025-12-27,34,0.01375,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2025-12,2025-12-31,3673,2025-12-24,28,0.00762,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2025-12,2025-12-31,4975,2025-12-24,41,0.00824,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-01,2026-01-31,4386,2026-01-24,111,0.02531,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-01,2026-01-31,34865,2026-01-28,591,0.01695,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-01,2026-01-31,3977,2026-01-23,82,0.02062,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-01,2026-01-31,1360,2026-01-23,40,0.02941,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-01,2026-01-31,9265,2026-01-24,100,0.01079,Compliant
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-01,2026-01-31,15188,2026-01-22,139,0.00915,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-01,2026-01-31,0,,0,,Silent
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-01,2026-01-31,7100,2026-01-28,98,0.0138,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-01,2026-01-31,52843,2026-01-26,576,0.0109,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-01,2026-01-31,9111,2026-01-23,211,0.02316,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-01,2026-01-31,4260,2026-01-24,69,0.0162,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-01,2026-01-31,7267,2026-01-27,117,0.0161,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-01,2026-01-31,15945,2026-01-22,77,0.00483,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-01,2026-01-31,1948,2026-01-28,108,0.05544,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-01,2026-01-31,0,,44,,Data Incomplete
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-01,2026-01-31,9305,2026-01-22,572,0.06147,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-01,2026-01-31,748,2026-01-22,45,0.06016,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-01,2026-01-31,12337,2026-01-26,212,0.01718,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-01,2026-01-31,7419,2026-01-25,119,0.01604,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-01,2026-01-31,8822,2026-01-24,60,0.0068,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-01,2026-01-31,3983,2026-01-22,262,0.06578,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-01,2026-01-31,4907,2026-01-26,33,0.00673,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-01,2026-01-31,919,2026-01-28,14,0.01523,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-01,2026-01-31,8691,2026-01-27,153,0.0176,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-01,2026-01-31,5375,2026-01-25,57,0.0106,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-01,2026-01-31,5500,2026-01-28,63,0.01145,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-01,2026-01-31,610,2026-01-23,8,0.01311,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-01,2026-01-31,4557,2026-01-23,56,0.01229,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-01,2026-01-31,50861,2026-01-26,452,0.00889,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-01,2026-01-31,25505,2026-01-26,121,0.00474,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-01,2026-01-31,863,2026-01-24,14,0.01622,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-01,2026-01-31,6158,2026-01-22,36,0.00585,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-01,2026-01-31,40864,2026-01-23,470,0.0115,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-01,2026-01-31,35249,2026-01-22,815,0.02312,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-01,2026-01-31,2517,2026-01-26,42,0.01669,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-01,2026-01-31,3342,2026-01-22,20,0.00598,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-01,2026-01-31,5357,2026-01-27,43,0.00803,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-02,2026-02-28,4349,2026-02-26,122,0.02805,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-02,2026-02-28,35079,2026-02-25,691,0.0197,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-02,2026-02-28,3807,2026-02-25,85,0.02233,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-02,2026-02-28,1299,2026-02-25,30,0.02309,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-02,2026-02-28,9483,2026-02-23,111,0.01171,Compliant
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-02,2026-02-28,14941,2026-02-24,114,0.00763,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-02,2026-02-28,3635,2026-02-23,66,0.01816,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-02,2026-02-28,7728,2026-02-28,106,0.01372,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-02,2026-02-28,47987,2026-02-22,658,0.01371,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-02,2026-02-28,8476,2026-02-22,180,0.02124,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-02,2026-02-28,4335,2026-02-24,55,0.01269,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-02,2026-02-28,6637,2026-02-27,107,0.01612,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-02,2026-02-28,15495,2026-02-28,83,0.00536,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-02,2026-02-28,1866,2026-02-23,75,0.04019,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-02,2026-02-28,4291,2026-02-22,42,0.00979,Compliant
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-02,2026-02-28,8907,2026-02-27,581,0.06523,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-02,2026-02-28,742,2026-02-27,40,0.05391,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-02,2026-02-28,11270,2026-02-24,183,0.01624,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-02,2026-02-28,7719,2026-02-27,163,0.02112,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-02,2026-02-28,9496,2026-02-28,49,0.00516,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-02,2026-02-28,3836,2026-02-23,314,0.08186,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-02,2026-02-28,4754,2026-02-23,27,0.00568,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-02,2026-02-28,995,2026-02-23,14,0.01407,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-02,2026-02-28,0,,210,,Data Incomplete
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-02,2026-02-28,5238,2026-02-23,50,0.00955,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-02,2026-02-28,5563,2026-02-26,91,0.01636,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-02,2026-02-28,583,2026-02-26,8,0.01372,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-02,2026-02-28,4594,2026-02-28,55,0.01197,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-02,2026-02-28,47958,2026-02-27,421,0.00878,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-02,2026-02-28,26268,2026-02-23,108,0.00411,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-02,2026-02-28,827,2026-02-25,11,0.0133,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-02,2026-02-28,5758,2026-02-28,26,0.00452,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-02,2026-02-28,40742,2026-02-27,384,0.00943,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-02,2026-02-28,32582,2026-02-28,657,0.02016,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-02,2026-02-28,2355,2026-02-26,47,0.01996,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-02,2026-02-28,3339,2026-02-26,20,0.00599,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-02,2026-02-28,5667,2026-02-25,40,0.00706,Compliant
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-02,2026-02-28,4049,2026-02-23,72,0.01778,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-03,2026-03-31,4319,2026-03-24,89,0.02061,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-03,2026-03-31,34031,2026-03-23,687,0.02019,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-03,2026-03-31,3630,2026-03-26,96,0.02645,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-03,2026-03-31,1257,2026-03-25,28,0.02228,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-03,2026-03-31,0,,0,,Silent
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-03,2026-03-31,14314,2026-03-25,118,0.00824,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-03,2026-03-31,3556,2026-03-25,65,0.01828,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-03,2026-03-31,7318,2026-03-22,122,0.01667,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-03,2026-03-31,50641,2026-03-22,618,0.0122,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-03,2026-03-31,8466,2026-03-23,153,0.01807,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-03,2026-03-31,4670,2026-03-22,66,0.01413,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-03,2026-03-31,7080,2026-03-24,108,0.01525,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-03,2026-03-31,14022,2026-03-22,64,0.00456,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-03,2026-03-31,1967,2026-03-22,101,0.05135,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-03,2026-03-31,4217,2026-03-27,37,0.00877,Compliant
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-03,2026-03-31,0,,616,,Data Incomplete
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-03,2026-03-31,774,2026-03-22,49,0.06331,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-03,2026-03-31,12610,2026-03-26,182,0.01443,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-03,2026-03-31,7868,2026-03-22,123,0.01563,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-03,2026-03-31,9523,2026-03-26,57,0.00599,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-03,2026-03-31,4051,2026-03-24,247,0.06097,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-03,2026-03-31,4828,2026-03-22,32,0.00663,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-03,2026-03-31,975,2026-03-28,13,0.01333,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-03,2026-03-31,8423,2026-03-27,205,0.02434,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-03,2026-03-31,5305,2026-03-23,57,0.01074,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-03,2026-03-31,5449,2026-03-27,69,0.01266,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-03,2026-03-31,639,2026-03-28,9,0.01408,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-03,2026-03-31,4874,2026-03-28,64,0.01313,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-03,2026-03-31,52562,2026-03-28,362,0.00689,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-03,2026-03-31,27340,2026-03-25,123,0.0045,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-03,2026-03-31,789,2026-03-24,11,0.01394,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-03,2026-03-31,6244,2026-03-27,27,0.00432,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-03,2026-03-31,39011,2026-03-22,346,0.00887,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-03,2026-03-31,35863,2026-03-26,782,0.02181,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-03,2026-03-31,2353,2026-03-26,45,0.01912,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-03,2026-03-31,3553,2026-03-28,20,0.00563,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-03,2026-03-31,5438,2026-03-27,49,0.00901,Compliant
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-03,2026-03-31,4001,2026-03-26,66,0.0165,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-04,2026-04-30,3924,2026-04-26,88,0.02243,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-04,2026-04-30,34572,2026-04-26,641,0.01854,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-04,2026-04-30,3687,2026-04-24,89,0.02414,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-04,2026-04-30,1271,2026-04-26,33,0.02596,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-04,2026-04-30,8656,2026-04-25,117,0.01352,Compliant
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-04,2026-04-30,14348,2026-04-23,107,0.00746,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-04,2026-04-30,3796,2026-04-26,55,0.01449,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-04,2026-04-30,7668,2026-04-28,106,0.01382,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-04,2026-04-30,54147,2026-04-26,692,0.01278,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-04,2026-04-30,8311,2026-04-24,154,0.01853,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-04,2026-04-30,4568,2026-04-27,75,0.01642,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-04,2026-04-30,6624,2026-04-27,117,0.01766,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-04,2026-04-30,14960,2026-04-26,80,0.00535,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-04,2026-04-30,2073,2026-04-23,120,0.05789,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-04,2026-04-30,4519,2026-04-26,41,0.00907,Compliant
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-04,2026-04-30,9484,2026-04-25,595,0.06274,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-04,2026-04-30,776,2026-04-26,46,0.05928,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-04,2026-04-30,12633,2026-04-25,210,0.01662,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-04,2026-04-30,7665,2026-04-25,113,0.01474,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-04,2026-04-30,8900,2026-04-23,59,0.00663,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-04,2026-04-30,3790,2026-04-28,313,0.08259,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-04,2026-04-30,4847,2026-04-23,28,0.00578,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-04,2026-04-30,1025,2026-04-25,11,0.01073,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-04,2026-04-30,8407,2026-04-23,164,0.01951,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-04,2026-04-30,5629,2026-04-28,46,0.00817,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-04,2026-04-30,5285,2026-04-23,80,0.01514,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-04,2026-04-30,666,2026-04-28,10,0.01502,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-04,2026-04-30,4848,2026-04-27,73,0.01506,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-04,2026-04-30,51281,2026-04-27,344,0.00671,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-04,2026-04-30,24959,2026-04-22,133,0.00533,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-04,2026-04-30,878,2026-04-26,14,0.01595,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-04,2026-04-30,5845,2026-04-28,28,0.00479,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-04,2026-04-30,38385,2026-04-24,378,0.00985,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-04,2026-04-30,32870,2026-04-27,652,0.01984,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-04,2026-04-30,2292,2026-04-23,42,0.01832,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-04,2026-04-30,3687,2026-04-26,26,0.00705,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-04,2026-04-30,5474,2026-04-23,46,0.0084,Compliant
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-04,2026-04-30,4269,2026-04-28,83,0.01944,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-05,2026-05-31,3979,2026-05-27,84,0.02111,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-05,2026-05-31,36040,2026-05-28,565,0.01568,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-05,2026-05-31,3924,2026-05-23,87,0.02217,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-05,2026-05-31,1263,2026-05-22,32,0.02534,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-05,2026-05-31,9371,2026-05-25,133,0.01419,Compliant
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-05,2026-05-31,13842,2026-05-23,106,0.00766,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-05,2026-05-31,3495,2026-05-23,67,0.01917,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-05,2026-05-31,7291,2026-05-25,103,0.01413,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-05,2026-05-31,51246,2026-05-25,560,0.01093,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-05,2026-05-31,8348,2026-05-28,146,0.01749,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-05,2026-05-31,4685,2026-05-22,79,0.01686,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-05,2026-05-31,6689,2026-05-25,101,0.0151,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-05,2026-05-31,14673,2026-05-26,74,0.00504,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-05,2026-05-31,2142,2026-05-25,116,0.05415,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-05,2026-05-31,0,,0,,Silent
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-05,2026-05-31,8619,2026-05-28,539,0.06254,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-05,2026-05-31,754,2026-05-27,33,0.04377,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-05,2026-05-31,12451,2026-05-25,186,0.01494,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-05,2026-05-31,7885,2026-05-26,162,0.02055,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-05,2026-05-31,9587,2026-05-26,52,0.00542,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-05,2026-05-31,3950,2026-05-25,300,0.07595,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-05,2026-05-31,4537,2026-05-28,27,0.00595,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-05,2026-05-31,931,2026-05-26,14,0.01504,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-05,2026-05-31,8543,2026-05-23,163,0.01908,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-05,2026-05-31,5049,2026-05-26,40,0.00792,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-05,2026-05-31,5130,2026-05-28,63,0.01228,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-05,2026-05-31,620,2026-05-28,11,0.01774,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-05,2026-05-31,4564,2026-05-22,58,0.01271,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-05,2026-05-31,48557,2026-05-27,349,0.00719,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-05,2026-05-31,25934,2026-05-25,142,0.00548,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-05,2026-05-31,877,2026-05-23,16,0.01824,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-05,2026-05-31,6127,2026-05-22,32,0.00522,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-05,2026-05-31,37232,2026-05-25,470,0.01262,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-05,2026-05-31,35151,2026-05-23,611,0.01738,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-05,2026-05-31,2548,2026-05-26,36,0.01413,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-05,2026-05-31,3444,2026-05-28,23,0.00668,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-05,2026-05-31,5359,2026-05-24,36,0.00672,Compliant
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-05,2026-05-31,4034,2026-05-28,66,0.01636,Compliant
+FAC-039,Pelican Bay Regional Medical Center,Hospital,Mecklenburg,2026-05,2026-05-31,24103,2026-05-27,293,0.01216,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-06,2026-06-30,4077,2026-06-28,108,0.02649,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-06,2026-06-30,34507,2026-06-23,534,0.01548,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-06,2026-06-30,3671,2026-06-25,86,0.02343,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-06,2026-06-30,1270,2026-06-27,32,0.0252,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-06,2026-06-30,8806,2026-06-23,276,0.03134,Elevated Errors
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-06,2026-06-30,14738,2026-06-27,99,0.00672,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-06,2026-06-30,3593,2026-06-27,68,0.01893,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-06,2026-06-30,7260,2026-06-25,117,0.01612,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-06,2026-06-30,53465,2026-06-23,759,0.0142,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-06,2026-06-30,9170,2026-06-22,195,0.02126,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-06,2026-06-30,4101,2026-06-23,52,0.01268,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-06,2026-06-30,7565,2026-06-25,162,0.02141,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-06,2026-06-30,15432,2026-06-23,95,0.00616,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-06,2026-06-30,1930,2026-06-28,114,0.05907,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-06,2026-06-30,0,,0,,Silent
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-06,2026-06-30,8413,2026-06-23,456,0.0542,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-06,2026-06-30,780,2026-06-22,35,0.04487,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-06,2026-06-30,12236,2026-06-22,187,0.01528,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-06,2026-06-30,7934,2026-06-23,126,0.01588,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-06,2026-06-30,8697,2026-06-26,40,0.0046,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-06,2026-06-30,3940,2026-06-24,327,0.08299,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-06,2026-06-30,5018,2026-06-22,35,0.00697,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-06,2026-06-30,931,2026-06-25,14,0.01504,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-06,2026-06-30,8475,2026-06-28,143,0.01687,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-06,2026-06-30,5518,2026-06-25,54,0.00979,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-06,2026-06-30,5735,2026-06-22,79,0.01378,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-06,2026-06-30,0,,9,,Data Incomplete
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-06,2026-06-30,4719,2026-06-25,67,0.0142,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-06,2026-06-30,53095,2026-06-26,447,0.00842,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-06,2026-06-30,26052,2026-06-22,148,0.00568,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-06,2026-06-30,875,2026-06-28,15,0.01714,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-06,2026-06-30,5738,2026-06-23,33,0.00575,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-06,2026-06-30,37942,2026-06-23,381,0.01004,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-06,2026-06-30,33834,2026-06-27,618,0.01827,Compliant
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-06,2026-06-30,2270,2026-06-27,45,0.01982,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-06,2026-06-30,3289,2026-06-27,25,0.0076,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-06,2026-06-30,5171,2026-06-26,37,0.00716,Compliant
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-06,2026-06-30,3993,2026-06-26,59,0.01478,Compliant
+FAC-039,Pelican Bay Regional Medical Center,Hospital,Mecklenburg,2026-06,2026-06-30,26257,2026-06-25,252,0.0096,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-07,2026-07-31,3955,2026-07-22,111,0.02807,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-07,2026-07-31,35210,2026-07-27,692,0.01965,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-07,2026-07-31,3540,2026-07-28,96,0.02712,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-07,2026-07-31,1348,2026-07-26,40,0.02967,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-07,2026-07-31,9147,2026-07-27,272,0.02974,Compliant
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-07,2026-07-31,13902,2026-07-27,114,0.0082,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-07,2026-07-31,3609,2026-07-26,73,0.02023,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-07,2026-07-31,7074,2026-07-25,88,0.01244,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-07,2026-07-31,0,,736,,Data Incomplete
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-07,2026-07-31,8674,2026-07-28,150,0.01729,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-07,2026-07-31,4659,2026-07-28,64,0.01374,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-07,2026-07-31,7184,2026-07-24,121,0.01684,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-07,2026-07-31,14304,2026-07-28,80,0.00559,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-07,2026-07-31,1880,2026-07-27,105,0.05585,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-07,2026-07-31,0,,0,,Silent
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-07,2026-07-31,8866,2026-07-22,584,0.06587,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-07,2026-07-31,799,2026-07-28,48,0.06008,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-07,2026-07-31,11676,2026-07-28,189,0.01619,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-07,2026-07-31,7322,2026-07-25,144,0.01967,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-07,2026-07-31,9388,2026-07-27,58,0.00618,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-07,2026-07-31,3874,2026-07-25,283,0.07305,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-07,2026-07-31,4634,2026-07-22,24,0.00518,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-07,2026-07-31,1044,2026-07-23,14,0.01341,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-07,2026-07-31,8556,2026-07-24,148,0.0173,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-07,2026-07-31,5299,2026-07-24,53,0.01,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-07,2026-07-31,5152,2026-07-26,71,0.01378,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-07,2026-07-31,590,2026-07-28,10,0.01695,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-07,2026-07-31,4734,2026-07-28,61,0.01289,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-07,2026-07-31,47430,2026-07-22,340,0.00717,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-07,2026-07-31,26126,2026-07-27,150,0.00574,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-07,2026-07-31,852,2026-07-26,15,0.01761,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-07,2026-07-31,5601,2026-07-26,27,0.00482,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-07,2026-07-31,39663,2026-07-28,444,0.01119,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-07,2026-07-31,0,,0,,Silent
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-07,2026-07-31,2315,2026-07-27,38,0.01641,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-07,2026-07-31,3517,2026-07-27,29,0.00825,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-07,2026-07-31,5037,2026-07-24,47,0.00933,Compliant
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-07,2026-07-31,4006,2026-07-26,59,0.01473,Compliant
+FAC-039,Pelican Bay Regional Medical Center,Hospital,Mecklenburg,2026-07,2026-07-31,23977,2026-07-28,301,0.01255,Compliant
+FAC-040,Cypress Point Regional Medical Center,Hospital,Robeson,2026-07,2026-07-31,55897,2026-07-25,686,0.01227,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-08,2026-08-31,3953,2026-08-28,98,0.02479,Compliant
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-08,2026-08-31,32889,2026-08-23,674,0.02049,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-08,2026-08-31,3981,2026-08-27,107,0.02688,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-08,2026-08-31,1302,2026-08-22,31,0.02381,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-08,2026-08-31,8881,2026-08-22,314,0.03536,Elevated Errors
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-08,2026-08-31,15313,2026-08-26,100,0.00653,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-08,2026-08-31,3810,2026-08-22,54,0.01417,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-08,2026-08-31,7427,2026-08-28,122,0.01643,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-08,2026-08-31,53867,2026-08-28,740,0.01374,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-08,2026-08-31,8471,2026-08-28,169,0.01995,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-08,2026-08-31,4417,2026-08-28,61,0.01381,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-08,2026-08-31,7193,2026-08-22,133,0.01849,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-08,2026-08-31,15052,2026-08-27,94,0.00625,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-08,2026-08-31,1896,2026-08-27,97,0.05116,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-08,2026-08-31,4571,2026-08-22,40,0.00875,Compliant
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-08,2026-08-31,8789,2026-08-24,630,0.07168,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-08,2026-08-31,768,2026-08-22,44,0.05729,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-08,2026-08-31,11164,2026-08-24,139,0.01245,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-08,2026-08-31,7845,2026-08-24,115,0.01466,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-08,2026-08-31,9087,2026-08-28,50,0.0055,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-08,2026-08-31,3825,2026-08-22,313,0.08183,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-08,2026-08-31,4711,2026-08-26,33,0.007,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-08,2026-08-31,935,2026-08-27,13,0.0139,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-08,2026-08-31,8671,2026-08-22,200,0.02307,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-08,2026-08-31,5440,2026-08-23,54,0.00993,Compliant
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-08,2026-08-31,5101,2026-08-24,59,0.01157,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-08,2026-08-31,619,2026-08-22,11,0.01777,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-08,2026-08-31,4652,2026-08-22,53,0.01139,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-08,2026-08-31,47042,2026-08-25,333,0.00708,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-08,2026-08-31,24685,2026-08-28,97,0.00393,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-08,2026-08-31,881,2026-08-28,16,0.01816,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-08,2026-08-31,6041,2026-08-28,26,0.0043,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-08,2026-08-31,37318,2026-08-22,353,0.00946,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-08,2026-08-31,0,,0,,Silent
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-08,2026-08-31,2323,2026-08-24,45,0.01937,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-08,2026-08-31,3395,2026-08-23,28,0.00825,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-08,2026-08-31,5504,2026-08-27,38,0.0069,Compliant
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-08,2026-08-31,3999,2026-08-24,60,0.015,Compliant
+FAC-039,Pelican Bay Regional Medical Center,Hospital,Mecklenburg,2026-08,2026-08-31,24902,2026-08-24,302,0.01213,Compliant
+FAC-040,Cypress Point Regional Medical Center,Hospital,Robeson,2026-08,2026-08-31,54928,2026-08-23,679,0.01236,Compliant
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2026-09,2026-09-30,0,,0,,Silent
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2026-09,2026-09-30,36315,2026-09-22,498,0.01371,Compliant
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2026-09,2026-09-30,3725,2026-09-28,82,0.02201,Compliant
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2026-09,2026-09-30,1277,2026-09-22,32,0.02506,Compliant
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2026-09,2026-09-30,9262,2026-09-28,369,0.03984,Elevated Errors
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2026-09,2026-09-30,14927,2026-09-25,111,0.00744,Compliant
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2026-09,2026-09-30,3642,2026-09-26,55,0.0151,Compliant
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2026-09,2026-09-30,7883,2026-09-23,110,0.01395,Compliant
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2026-09,2026-09-30,47837,2026-09-23,477,0.00997,Compliant
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2026-09,2026-09-30,8119,2026-09-26,164,0.0202,Compliant
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2026-09,2026-09-30,4606,2026-09-27,61,0.01324,Compliant
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2026-09,2026-09-30,6773,2026-09-24,141,0.02082,Compliant
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2026-09,2026-09-30,14360,2026-09-24,70,0.00487,Compliant
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2026-09,2026-09-30,2046,2026-09-27,102,0.04985,Elevated Errors
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2026-09,2026-09-30,4526,2026-09-27,44,0.00972,Compliant
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2026-09,2026-09-30,8752,2026-09-25,443,0.05062,Elevated Errors
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2026-09,2026-09-30,773,2026-09-23,45,0.05821,Elevated Errors
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2026-09,2026-09-30,11494,2026-09-25,200,0.0174,Compliant
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2026-09,2026-09-30,8010,2026-09-22,154,0.01923,Compliant
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2026-09,2026-09-30,9351,2026-09-28,63,0.00674,Compliant
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2026-09,2026-09-30,3896,2026-09-22,315,0.08085,Elevated Errors
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2026-09,2026-09-30,4650,2026-09-22,32,0.00688,Compliant
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2026-09,2026-09-30,1002,2026-09-26,12,0.01198,Compliant
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2026-09,2026-09-30,8338,2026-09-27,162,0.01943,Compliant
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2026-09,2026-09-30,0,,44,,Data Incomplete
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2026-09,2026-09-30,5115,2026-09-25,80,0.01564,Compliant
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2026-09,2026-09-30,587,2026-09-23,10,0.01704,Compliant
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2026-09,2026-09-30,4357,2026-09-23,68,0.01561,Compliant
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2026-09,2026-09-30,51812,2026-09-23,335,0.00647,Compliant
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2026-09,2026-09-30,25839,2026-09-24,123,0.00476,Compliant
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2026-09,2026-09-30,888,2026-09-28,15,0.01689,Compliant
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2026-09,2026-09-30,5740,2026-09-22,34,0.00592,Compliant
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2026-09,2026-09-30,41106,2026-09-22,359,0.00873,Compliant
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2026-09,2026-09-30,0,,0,,Silent
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2026-09,2026-09-30,2467,2026-09-24,34,0.01378,Compliant
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2026-09,2026-09-30,3486,2026-09-22,26,0.00746,Compliant
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2026-09,2026-09-30,5306,2026-09-28,46,0.00867,Compliant
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-09,2026-09-30,3951,2026-09-22,54,0.01367,Compliant
+FAC-039,Pelican Bay Regional Medical Center,Hospital,Mecklenburg,2026-09,2026-09-30,26794,2026-09-23,292,0.0109,Compliant
+FAC-040,Cypress Point Regional Medical Center,Hospital,Robeson,2026-09,2026-09-30,58685,2026-09-23,669,0.0114,Compliant
