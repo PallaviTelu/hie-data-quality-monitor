@@ -1,0 +1,41 @@
+facility_id,facility_name,facility_type,county,onboarding_date
+FAC-001,Stonegate Family Health Clinic,Clinic,Onslow,2023-03-15
+FAC-002,Fairview Regional Medical Center,Hospital,Mecklenburg,2023-11-11
+FAC-003,Brookfield Family Health Clinic,Clinic,Guilford,2024-07-09
+FAC-004,Maple Grove Behavioral Health Center,Behavioral Health,Rowan,2024-04-21
+FAC-005,Hickory Lane Diagnostic Laboratory,Laboratory,Durham,2025-03-09
+FAC-006,Lakeside Diagnostic Laboratory,Laboratory,Catawba,2024-12-19
+FAC-007,Meadowlark Community Pharmacy,Pharmacy,Rowan,2023-03-17
+FAC-008,Oak Hollow Family Health Clinic,Clinic,Buncombe,2022-03-21
+FAC-009,Ironwood Regional Medical Center,Hospital,Wayne,2022-07-13
+FAC-010,Tidewater Community Pharmacy,Pharmacy,Forsyth,2022-11-24
+FAC-011,Longleaf Family Health Clinic,Clinic,Forsyth,2024-11-11
+FAC-012,Magnolia Community Pharmacy,Pharmacy,New Hanover,2025-01-24
+FAC-013,Juniper Diagnostic Laboratory,Laboratory,Alamance,2022-11-10
+FAC-014,Piedmont Crest Family Health Clinic,Clinic,Alamance,2024-03-18
+FAC-015,Trinity Square Family Health Clinic,Clinic,Johnston,2025-01-04
+FAC-016,Harbor View Community Pharmacy,Pharmacy,Guilford,2023-10-03
+FAC-017,Granite Falls Behavioral Health Center,Behavioral Health,Durham,2022-09-25
+FAC-018,Dogwood Diagnostic Laboratory,Laboratory,Wayne,2023-05-17
+FAC-019,Quarry Hill Family Health Clinic,Clinic,Onslow,2023-12-10
+FAC-020,Cardinal Diagnostic Laboratory,Laboratory,Forsyth,2025-09-15
+FAC-021,Cedar Ridge Family Health Clinic,Clinic,Cabarrus,2024-01-19
+FAC-022,Kestrel Community Pharmacy,Pharmacy,Mecklenburg,2022-02-23
+FAC-023,Northgate Behavioral Health Center,Behavioral Health,Alamance,2022-06-03
+FAC-024,Foothills Community Pharmacy,Pharmacy,Durham,2025-04-18
+FAC-025,Coastal Plain Family Health Clinic,Clinic,Rowan,2025-04-26
+FAC-026,Pinewood Family Health Clinic,Clinic,Johnston,2022-11-14
+FAC-027,Mountain Laurel Behavioral Health Center,Behavioral Health,Forsyth,2022-11-21
+FAC-028,Red Clay Community Pharmacy,Pharmacy,Cumberland,2024-02-08
+FAC-029,Silver Creek Regional Medical Center,Hospital,New Hanover,2023-07-06
+FAC-030,Summit Park Regional Medical Center,Hospital,Cabarrus,2022-08-26
+FAC-031,Sandhills Behavioral Health Center,Behavioral Health,Pitt,2022-02-25
+FAC-032,Willow Bend Diagnostic Laboratory,Laboratory,Onslow,2025-04-28
+FAC-033,Bayleaf Regional Medical Center,Hospital,Iredell,2022-07-09
+FAC-034,Riverbend Regional Medical Center,Hospital,Union,2025-03-07
+FAC-035,Amber Fields Family Health Clinic,Clinic,Mecklenburg,2022-12-11
+FAC-036,Sweetgum Family Health Clinic,Clinic,Guilford,2023-01-17
+FAC-037,Blue Heron Family Health Clinic,Clinic,Pitt,2022-11-28
+FAC-038,Heritage Family Health Clinic,Clinic,Robeson,2026-02-10
+FAC-039,Pelican Bay Regional Medical Center,Hospital,Mecklenburg,2026-05-04
+FAC-040,Cypress Point Regional Medical Center,Hospital,Robeson,2026-07-13

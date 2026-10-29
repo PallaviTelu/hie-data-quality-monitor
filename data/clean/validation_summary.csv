@@ -1,0 +1,11 @@
+check_id,check_name,rows_checked,issues_found,handling,pct_issues
+V01,Facility ID not in standard FAC-### format (submissions),462,29,Standardized to FAC-###,0.0628
+V02,Month not in YYYY-MM format (submissions),462,38,Standardized to YYYY-MM,0.0823
+V03,Received date not in YYYY-MM-DD format (submissions),459,64,Standardized to YYYY-MM-DD,0.1394
+V04,Missing record count,462,3,Row quarantined; facility-month flagged Data Incomplete,0.0065
+V05,Record count out of range (negative or above max),462,5,Row quarantined; facility-month flagged Data Incomplete,0.0108
+V06,Duplicate facility-month rows,462,8,"Kept latest received date, then larger count; others quarantined",0.0173
+V07,Unknown facility ID (submissions),462,1,Row quarantined; follow up with feed owner,0.0022
+V08,Unknown facility ID (validation errors),1789,2,Row quarantined; follow up with feed owner,0.0011
+V09,Facility-months expected but silent (no data or zero records),460,10,Flagged Silent; escalate per SOP when 30+ days,0.0217
+V10,Facilities with no data received in 30+ days (current),40,2,Escalate per SOP,0.05
